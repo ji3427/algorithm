@@ -18,3 +18,8 @@
   - Fail
 - 2019-11-08 공격적인 소 [[문제]](http://59.23.150.58/30stair/aggressive/aggressive.php?pname=aggressive) [[코드]](https://github.com/ji3427/algorithm/blob/master/week1/dov_10_aggressive.cpp)
 
+## week2
+
+- 2019-11-11 josephus problem [[문제]](http://59.23.150.58/30stair/josephus/josephus.php?pname=josephus) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_11_josephus.cpp)
+- 2019-11-11 큰 수의 뺄셈 [[문제]](http://59.23.150.58/30stair/long_sub/long_sub.php?pname=long_sub) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_11_long_sub.cpp)
+  - Fail
