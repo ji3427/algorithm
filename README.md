@@ -23,3 +23,10 @@
 - 2019-11-11 josephus problem [[문제]](http://59.23.150.58/30stair/josephus/josephus.php?pname=josephus) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_11_josephus.cpp)
 - 2019-11-11 큰 수의 뺄셈 [[문제]](http://59.23.150.58/30stair/long_sub/long_sub.php?pname=long_sub) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_11_long_sub.cpp)
   - Fail
+- 2019-11-13 알파벳 세개 단어 [[문제]](http://59.23.150.58/30stair/alpha/alpha.php?pname=alpha) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_alpha.cpp)
+- 2019-11-13 HQ9 [[문제]](http://59.23.150.58/30stair/HQ9/HQ9.php?pname=HQ9) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_HQ9.cpp)
+- 2019-11-13 미분 [[문제]](http://59.23.150.58/30stair/differential/differential.php?pname=differential) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_differential.cpp)
+  - Help!
+- 2019-11-13 땡땡이 [[문제]](http://59.23.150.58/30stair/chemi/chemi.php?pname=chemi) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_chemi.cpp)
+- 2019-11-13 속임수 [[문제]](http://59.23.150.58/30stair/coci_trik/coci_trik.php?pname=coci_trik) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_coci_trik.cpp)
+- 2019-11-13 콤마 찍기 [[문제]](http://59.23.150.58/30stair/comma/comma.php?pname=comma) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_commai.cpp)
