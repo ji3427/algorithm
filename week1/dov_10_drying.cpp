@@ -1,47 +1,53 @@
 #include <iostream>
 #include <vector>
 #include <queue>
+#include <math.h>
 
 using namespace std;
+
+vector<int> laundry;
+int k;
+
+bool check(int time){
+	int cnt = 0;
+	for(int i = 0 ; i < laundry.size() ; i++){
+		if(laundry[i] > time) {
+			cnt += ceil((double)(laundry[i] - time) / k);
+		}
+		if(cnt > time) return false;
+	}
+	return true;
+}
+
 
 int main(void){
 	int size;
 	cin>>size;
-	int k,temp;
-	priority_queue<int> pq;
+	int temp;
+	int min = 1;
+	int max = -1;
 	for(int i = 0 ; i < size ; i ++){
 		cin>>temp;
-		pq.push(temp);
+		if(temp >= max)  max = temp;
+		laundry.push_back(temp);
 	}
 	cin>>k;
-}
-
-/*
-// 우선 순위 큐로 꿀빨라고 했는데 실패
-int main(void)
-{
-	int size;
-	cin>>size;
-	int k,temp;
-	int time = 0;
-	priority_queue<int> pq;
-	for(int i = 0 ; i < size ; i ++){
-		cin>>temp;
-		pq.push(temp);
+	if(k == 1) {cout<< max;return 0;}
+	k--;
+	int mid;
+	int ans;
+	while(min <= max){
+		mid = (min + max) / 2;
+		if(check(mid)){
+			max = mid - 1;
+			ans = mid;
+		}
+		else{
+			min = mid + 1;
+		}
 	}
-	cin>>k;
-	while(pq.top() > time){
-		int t = pq.top();
-		pq.pop();
-		t = t - k + 1;
-		time++;
-		pq.push(t);
-	}
-	cout<<time<<endl;
+	cout<<ans<<endl;
 }
-
-*/
-
 
 
 /*
@@ -71,7 +77,7 @@ int main()
 	int l = 0, r = 0, m;
 	for (int i = 0; i < n; ++i)  scanf("%d", &a[i]), r = max(r, a[i]);
 	scanf("%d", &k);
-	if (k == 1) return printf("%d", r), 0; ///要特判k为1的情况！！
+	if (k == 1) return printf("%d", r), 0;
 	--k;
 	while (l + 1 < r) judge(m = (l + r) >> 1) ? r = m : l = m;
 	printf("%d", l + 1);
