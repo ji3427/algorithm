@@ -8,6 +8,10 @@ int main(void)
 {
 	string num1,num2;
 	cin>>num1>>num2;
+	if(num1.length() <10 && num2.length() < 10){
+		cout<<stoi(num1)-stoi(num2)<<endl;
+		return 0;
+	}
 	list<int> nl1;
 	list<int> nl2;
 	list<int> ans;
@@ -76,7 +80,6 @@ int main(void)
 		}
 		 
 		int num = *big_s - small;
-	//	cout<<*big_s <<" - "<<small<<" = "<<num<<endl;
 		if(num < 0) {
 			num = 10000 + num;
 			*(big_s++) --;
