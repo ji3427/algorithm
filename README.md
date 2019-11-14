@@ -30,3 +30,9 @@
 - 2019-11-13 땡땡이 [[문제]](http://59.23.150.58/30stair/chemi/chemi.php?pname=chemi) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_chemi.cpp)
 - 2019-11-13 속임수 [[문제]](http://59.23.150.58/30stair/coci_trik/coci_trik.php?pname=coci_trik) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_coci_trik.cpp)
 - 2019-11-13 콤마 찍기 [[문제]](http://59.23.150.58/30stair/comma/comma.php?pname=comma) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_commai.cpp)
+- 2019-11-14 ABC [[문제]](http://59.23.150.58/30stair/coci_abc/coci_abc.php?pname=coci_abc) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_coci_abc.cpp)
+- 2019-11-14 11의 배수 판정 [[문제]](http://59.23.150.58/30stair/mulofele/mulofele.php?pname=mulofele) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_mulofele.cpp)
+- 2019-11-14 8 진수 [[문제]](http://59.23.150.58/30stair/octal/octal.php?pname=octal) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_octal.cpp)
+- 2019-11-14 worldcup [[문제]](http://59.23.150.58/30stair/worldcup/worldcup.php?pname=worldcup) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_worldcup.cpp)
+- 2019-11-14 pandigital [[문제]](http://59.23.150.58/30stair/pandigital/pandigital.php?pname=pandigital) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_pandigital.cpp)
+
