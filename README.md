@@ -36,3 +36,12 @@
 - 2019-11-14 worldcup [[문제]](http://59.23.150.58/30stair/worldcup/worldcup.php?pname=worldcup) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_worldcup.cpp)
 - 2019-11-14 pandigital [[문제]](http://59.23.150.58/30stair/pandigital/pandigital.php?pname=pandigital) [[코드]](https://github.com/ji3427/algorithm/blob/master/week2/dov_12_pandigital.cpp)
 
+## week3
+
+- 2019-11-20 검은점 세기 [[문제]](http://59.23.150.58/30stair/counting_black/counting_black.php?pname=counting_black)[[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_counting_black.cpp)
+- 2019-11-20 blurred vision [[문제]](http://59.23.150.58/30stair/blur/blur.php?pname=blur) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_blur.cpp)
+- 2019-11-20 보물 찾기 [[문제]](http://59.23.150.58/30stair/treasure_hunt/treasure_hunt.php?pname=treasure_hunt) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_treasure_hunt.cpp)
+- 2019-11-20 혜성 [[문제]](http://59.23.150.58/30stair/ride/ride.php?pname=ride) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_ride.cpp)
+- 2019-11-20 bouncy [[문제]](http://59.23.150.58/30stair/bouncy/bouncy.php?pname=bouncy) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_bouncy.cpp)
+- 2019-11-20 진법 변환 [[문제]](http://59.23.150.58/30stair/radix/radix.php?pname=radix) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_radix.cpp)
+
