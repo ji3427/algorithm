@@ -49,4 +49,11 @@
 - 2019-11-21 진수 변환 [[문제]](http://59.23.150.58/30stair/n_to_k_system/n_to_k_system.php?pname=n_to_k_system) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_n_to_k_system.cpp)
 - 2019-11-21 옛날 키보드 [[문제]](http://59.23.150.58/30stair/keyboard/keyboard.php?pname=keyboard) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_keyboard.cpp)
 - 2019-11-21 all in all [[문제]](http://59.23.150.58/30stair/allinall/allinall.php?pname=allinall) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_allinall.cpp)
+- 2019-11-22 사다리타기 [[문제]](http://59.23.150.58/30stair/ladder/ladder.php?pname=ladder) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_ladder.cpp)
+- 2019-11-22 한 줄당 합 [[문제]](http://59.23.150.58/30stair/sumofline/sumofline.php?pname=sumofline) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_sumofline.cpp)
+- 2019-11-22 룩 앤 세이 [[문제]](http://59.23.150.58/30stair/lookandsay/lookandsay.php?pname=lookandsay) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_lookandsay.cpp)
+
+
+
+
 
