@@ -39,21 +39,36 @@
 ## week3
 
 - 2019-11-20 검은점 세기 [[문제]](http://59.23.150.58/30stair/counting_black/counting_black.php?pname=counting_black)[[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_counting_black.cpp)
+
 - 2019-11-20 blurred vision [[문제]](http://59.23.150.58/30stair/blur/blur.php?pname=blur) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_blur.cpp)
+
 - 2019-11-20 보물 찾기 [[문제]](http://59.23.150.58/30stair/treasure_hunt/treasure_hunt.php?pname=treasure_hunt) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_treasure_hunt.cpp)
+
 - 2019-11-20 혜성 [[문제]](http://59.23.150.58/30stair/ride/ride.php?pname=ride) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_ride.cpp)
+
 - 2019-11-20 bouncy [[문제]](http://59.23.150.58/30stair/bouncy/bouncy.php?pname=bouncy) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_bouncy.cpp)
+
 - 2019-11-20 진법 변환 [[문제]](http://59.23.150.58/30stair/radix/radix.php?pname=radix) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_radix.cpp)
+
 - 2019-11-21 foo [[문제]](http://59.23.150.58/30stair/foo/foo.php?pname=foo) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_foo.cpp)
+
 - 2019-11-21 10 진수로 변환 [[문제]](http://59.23.150.58/30stair/todec/todec.php?pname=todec) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_todec.cpp)
+
 - 2019-11-21 진수 변환 [[문제]](http://59.23.150.58/30stair/n_to_k_system/n_to_k_system.php?pname=n_to_k_system) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_n_to_k_system.cpp)
+
 - 2019-11-21 옛날 키보드 [[문제]](http://59.23.150.58/30stair/keyboard/keyboard.php?pname=keyboard) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_keyboard.cpp)
+
 - 2019-11-21 all in all [[문제]](http://59.23.150.58/30stair/allinall/allinall.php?pname=allinall) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_allinall.cpp)
+
 - 2019-11-22 사다리타기 [[문제]](http://59.23.150.58/30stair/ladder/ladder.php?pname=ladder) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_ladder.cpp)
+
 - 2019-11-22 한 줄당 합 [[문제]](http://59.23.150.58/30stair/sumofline/sumofline.php?pname=sumofline) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_sumofline.cpp)
+
 - 2019-11-22 룩 앤 세이 [[문제]](http://59.23.150.58/30stair/lookandsay/lookandsay.php?pname=lookandsay) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_lookandsay.cpp)
 
+- 2019-11-24 찰흙 불한당 [[문제]](http://59.23.150.58/30stair/clay/clay.php?pname=clay) [[코드]](https://github.com/ji3427/algorithm/blob/master/week3/dov_12_clay.cpp)
 
+  
 
 
 
