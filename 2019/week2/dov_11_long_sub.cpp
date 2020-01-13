@@ -1,103 +1,95 @@
 #include <iostream>
 #include <list>
-#include <string.h>
-#include <cstdlib>
+#include <string>
+
 using namespace std;
 
-char num1[101];
-char num2[101];
-list<char*> nl1;
-list<char*> nl2;
-list<int> ans;
-char * temp;
-bool minu;
 int main(void)
 {
-	minu = false;
-	int index;
+	string num1,num2;
 	cin>>num1>>num2;
-	if(strlen(num1) <10 && strlen(num2) < 10){
-		cout<<atoi(num1)-atoi(num2)<<endl;
+	if(num1.length() <10 && num2.length() < 10){
+		cout<<stoi(num1)-stoi(num2)<<endl;
 		return 0;
 	}
-	int idx = strlen(num1) - 8;
-	while(1){
-		if(idx > 0){
-		temp = (char*)malloc(sizeof(char) * 9);
-		strncpy(temp,num1+idx,8);
-		temp[8] = '\0';
-		idx -=  8;
-		nl1.push_back(temp);
+	list<int> nl1;
+	list<int> nl2;
+	list<int> ans;
+	int pos = num1.length();
+	while(pos >= 0){
+			nl1.push_back(atoi(num1.substr(pos,1).c_str()));
+			pos--;
 	}
-		if(idx < 0){
-			temp = temp = (char*)malloc(sizeof(char) * 9);
-			strncpy(temp,num1,8 + idx);
-			temp[8+idx] = '\0';
-			nl1.push_back(temp);
-			break;
-		}
+	pos = num2.length();
+	while(pos >= 0){
+			nl2.push_back(atoi(num2.substr(pos,1).c_str()));
+			pos--;
 	}
-	idx = strlen(num2) - 8;
-	while(1){
-		if(idx>0){
-		temp = (char*)malloc(sizeof(char) * 9);
-		strncpy(temp,num2+idx,8);
-		temp[8] = '\0';
-		idx -=  8;
-		nl2.push_back(temp);
-	}
-		if(idx < 0){
-			temp = temp = (char*)malloc(sizeof(char) * 9);
-			strncpy(temp,num2,8 + idx);
-			temp[8+idx] = '\0';
-			nl2.push_back(temp);
-			break;
-		}
-	}
-	if(nl1.size() < nl2.size()){
-		minu = true;
-	}
-	else if((nl1.size() == nl2.size()) && atoi(nl1.back())< atoi(nl2.back())) minu = true;
-	list<char*>::iterator big_s;
-	list<char*>::iterator big_e;
-	list<char*>::iterator small_s;
-	list<char*>::iterator small_e;
-	if(minu == true){
-		big_s = nl2.begin();
-		big_e = nl2.end();
-		small_s = nl1.begin();
-		small_e = nl1.end();
-	}
-	else{
+	list<int>::iterator big_s;
+	list<int>::iterator big_e;
+	list<int>::iterator small_s;
+	list<int>::iterator small_e;
+	if(nl1.size() > nl2.size())
+	{
 		big_s = nl1.begin();
 		big_e = nl1.end();
 		small_s = nl2.begin();
 		small_e = nl2.end();
 	}
-	int num;
-	while(1){
-		if(big_s == big_e || small_s == small_e) break;
-		num = atoi(*big_s) - atoi(*small_s);
-		if(num < 0){
-			big_s++;
-			*big_s -=1;
-			big_s--;
-			num = 100000000 + num;
-		}
-		ans.push_front(num);
-		big_s++;
-		small_s++;
-	}
-	while(big_s != big_e){ans.push_front(atoi(*big_s)); big_s++;}
-	while(small_s != small_e){ans.push_front(atoi(*small_s)); small_s++;}
-	if(minu){
+	else if(nl1.size() < nl2.size())
+	{
+		big_s = nl2.begin();
+		big_e = nl2.end();
+		small_s = nl1.begin();
+		small_e = nl1.end();
 		cout<<"-";
 	}
-	cout<<ans.front();
-	list<int>::iterator ai = ans.begin();
-	ai++;
-	for(; ai != ans.end(); ai++){
-		printf("%08d",*ai);
+	else{
+		for (list<int>::iterator iter1 = nl1.end(); iter1 != nl1.begin(); --iter1){
+			list<int>::iterator iter2 = nl2.end();
+			if(*iter1 > *iter2){
+				big_s = nl1.begin();
+				big_e = nl1.end();
+				small_s = nl2.begin();
+				small_e = nl2.end();
+				break;
+			}
+			else if(*iter1 < *iter2){
+				big_s = nl2.begin();
+				big_e = nl2.end();
+				small_s = nl1.begin();
+				small_e = nl1.end();
+				cout<<"-";
+				break;
+			}
+			else{
+				iter2--;
+				continue;
+			}
+		}
 	}
-	return 0;
+	
+	for(;big_s != big_e ; ++big_s){
+		int small;
+		if(small_s == small_e){
+			small = 0;
+		}
+		else{
+			small = *small_s;
+			small_s++;
+		}
+		 
+		int num = *big_s - small;
+		if(num < 0) {
+			num = 10000 + num;
+			*(big_s++) --;
+			big_s--;
+		}
+		ans.push_front(num);
+	}
+	list<int>::iterator it = ans.begin();
+	printf("%d",*it++);
+	for(;it != ans.end() ; ++it){
+		printf("%d",*it);
+	}
 }
