@@ -10,3 +10,8 @@
 - 2020-01-13 지뢰 [[문제]](http://59.23.150.58/30stair/mine/mine.php?pname=mine)[[코드]](https://github.com/ji3427/algorithm/blob/master/2020/week1/dov_12_mine.cpp)
 - 2020-01-13 소 생일 [[문제]](http://59.23.150.58/30stair/birth/birth.php?pname=birth)[[코드]](https://github.com/ji3427/algorithm/blob/master/2020/week1/dov_12_birth.cpp)
 - 2020-01-16 분수를 소수로 변환 [[문제]](http://59.23.150.58/30stair/fractodec/fractodec.php?pname=fractodec)[[코드]](https://github.com/ji3427/algorithm/blob/master/2020/week1/dov_12_fractodec.cpp)
+
+## week2
+
+- 2020-01-21 번호를 이름으로 [[문제](http://59.23.150.58/30stair/namenum/namenum.php?pname=namenum)] [[코드]](https://github.com/ji3427/algorithm/blob/master/2020/week2/dov_12_namenum.cpp)
+
