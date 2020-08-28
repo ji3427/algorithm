@@ -1,0 +1,8569 @@
+123
+123
+s 3 b 0
+ans_s 1 ans_b 1
+123
+356
+s 0 b 1
+ans_s 1 ans_b 0
+123
+327
+s 1 b 1
+ans_s 2 ans_b 0
+123
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+124
+123
+s 2 b 0
+ans_s 1 ans_b 1
+124
+356
+s 0 b 0
+ans_s 1 ans_b 0
+124
+327
+s 1 b 0
+ans_s 2 ans_b 0
+124
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+125
+123
+s 2 b 0
+ans_s 1 ans_b 1
+125
+356
+s 0 b 1
+ans_s 1 ans_b 0
+125
+327
+s 1 b 0
+ans_s 2 ans_b 0
+125
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+126
+123
+s 2 b 0
+ans_s 1 ans_b 1
+126
+356
+s 1 b 0
+ans_s 1 ans_b 0
+126
+327
+s 1 b 0
+ans_s 2 ans_b 0
+126
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+127
+123
+s 2 b 0
+ans_s 1 ans_b 1
+127
+356
+s 0 b 0
+ans_s 1 ans_b 0
+127
+327
+s 2 b 0
+ans_s 2 ans_b 0
+127
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+128
+123
+s 2 b 0
+ans_s 1 ans_b 1
+128
+356
+s 0 b 0
+ans_s 1 ans_b 0
+128
+327
+s 1 b 0
+ans_s 2 ans_b 0
+128
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+129
+123
+s 2 b 0
+ans_s 1 ans_b 1
+129
+356
+s 0 b 0
+ans_s 1 ans_b 0
+129
+327
+s 1 b 0
+ans_s 2 ans_b 0
+129
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+132
+123
+s 1 b 2
+ans_s 1 ans_b 1
+132
+356
+s 0 b 1
+ans_s 1 ans_b 0
+132
+327
+s 0 b 2
+ans_s 2 ans_b 0
+132
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+134
+123
+s 1 b 1
+ans_s 1 ans_b 1
+134
+356
+s 0 b 1
+ans_s 1 ans_b 0
+134
+327
+s 0 b 1
+ans_s 2 ans_b 0
+134
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+135
+123
+s 1 b 1
+ans_s 1 ans_b 1
+135
+356
+s 0 b 2
+ans_s 1 ans_b 0
+135
+327
+s 0 b 1
+ans_s 2 ans_b 0
+135
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+136
+123
+s 1 b 1
+ans_s 1 ans_b 1
+136
+356
+s 1 b 1
+ans_s 1 ans_b 0
+136
+327
+s 0 b 1
+ans_s 2 ans_b 0
+136
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+137
+123
+s 1 b 1
+ans_s 1 ans_b 1
+137
+356
+s 0 b 1
+ans_s 1 ans_b 0
+137
+327
+s 1 b 1
+ans_s 2 ans_b 0
+137
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+138
+123
+s 1 b 1
+ans_s 1 ans_b 1
+138
+356
+s 0 b 1
+ans_s 1 ans_b 0
+138
+327
+s 0 b 1
+ans_s 2 ans_b 0
+138
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+139
+123
+s 1 b 1
+ans_s 1 ans_b 1
+139
+356
+s 0 b 1
+ans_s 1 ans_b 0
+139
+327
+s 0 b 1
+ans_s 2 ans_b 0
+139
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+142
+123
+s 1 b 1
+ans_s 1 ans_b 1
+142
+356
+s 0 b 0
+ans_s 1 ans_b 0
+142
+327
+s 0 b 1
+ans_s 2 ans_b 0
+142
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+143
+123
+s 2 b 0
+ans_s 1 ans_b 1
+143
+356
+s 0 b 1
+ans_s 1 ans_b 0
+143
+327
+s 0 b 1
+ans_s 2 ans_b 0
+143
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+145
+123
+s 1 b 0
+ans_s 1 ans_b 1
+145
+356
+s 0 b 1
+ans_s 1 ans_b 0
+145
+327
+s 0 b 0
+ans_s 2 ans_b 0
+145
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+146
+123
+s 1 b 0
+ans_s 1 ans_b 1
+146
+356
+s 1 b 0
+ans_s 1 ans_b 0
+146
+327
+s 0 b 0
+ans_s 2 ans_b 0
+146
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+147
+123
+s 1 b 0
+ans_s 1 ans_b 1
+147
+356
+s 0 b 0
+ans_s 1 ans_b 0
+147
+327
+s 1 b 0
+ans_s 2 ans_b 0
+147
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+148
+123
+s 1 b 0
+ans_s 1 ans_b 1
+148
+356
+s 0 b 0
+ans_s 1 ans_b 0
+148
+327
+s 0 b 0
+ans_s 2 ans_b 0
+148
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+149
+123
+s 1 b 0
+ans_s 1 ans_b 1
+149
+356
+s 0 b 0
+ans_s 1 ans_b 0
+149
+327
+s 0 b 0
+ans_s 2 ans_b 0
+149
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+152
+123
+s 1 b 1
+ans_s 1 ans_b 1
+152
+356
+s 1 b 0
+ans_s 1 ans_b 0
+152
+327
+s 0 b 1
+ans_s 2 ans_b 0
+152
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+153
+123
+s 2 b 0
+ans_s 1 ans_b 1
+153
+356
+s 1 b 1
+ans_s 1 ans_b 0
+153
+327
+s 0 b 1
+ans_s 2 ans_b 0
+153
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+154
+123
+s 1 b 0
+ans_s 1 ans_b 1
+154
+356
+s 1 b 0
+ans_s 1 ans_b 0
+154
+327
+s 0 b 0
+ans_s 2 ans_b 0
+154
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+156
+123
+s 1 b 0
+ans_s 1 ans_b 1
+156
+356
+s 2 b 0
+ans_s 1 ans_b 0
+156
+327
+s 0 b 0
+ans_s 2 ans_b 0
+156
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+157
+123
+s 1 b 0
+ans_s 1 ans_b 1
+157
+356
+s 1 b 0
+ans_s 1 ans_b 0
+157
+327
+s 1 b 0
+ans_s 2 ans_b 0
+157
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+158
+123
+s 1 b 0
+ans_s 1 ans_b 1
+158
+356
+s 1 b 0
+ans_s 1 ans_b 0
+158
+327
+s 0 b 0
+ans_s 2 ans_b 0
+158
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+159
+123
+s 1 b 0
+ans_s 1 ans_b 1
+159
+356
+s 1 b 0
+ans_s 1 ans_b 0
+159
+327
+s 0 b 0
+ans_s 2 ans_b 0
+159
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+162
+123
+s 1 b 1
+ans_s 1 ans_b 1
+162
+356
+s 0 b 1
+ans_s 1 ans_b 0
+162
+327
+s 0 b 1
+ans_s 2 ans_b 0
+162
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+163
+123
+s 2 b 0
+ans_s 1 ans_b 1
+163
+356
+s 0 b 2
+ans_s 1 ans_b 0
+163
+327
+s 0 b 1
+ans_s 2 ans_b 0
+163
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+164
+123
+s 1 b 0
+ans_s 1 ans_b 1
+164
+356
+s 0 b 1
+ans_s 1 ans_b 0
+164
+327
+s 0 b 0
+ans_s 2 ans_b 0
+164
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+165
+123
+s 1 b 0
+ans_s 1 ans_b 1
+165
+356
+s 0 b 2
+ans_s 1 ans_b 0
+165
+327
+s 0 b 0
+ans_s 2 ans_b 0
+165
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+167
+123
+s 1 b 0
+ans_s 1 ans_b 1
+167
+356
+s 0 b 1
+ans_s 1 ans_b 0
+167
+327
+s 1 b 0
+ans_s 2 ans_b 0
+167
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+168
+123
+s 1 b 0
+ans_s 1 ans_b 1
+168
+356
+s 0 b 1
+ans_s 1 ans_b 0
+168
+327
+s 0 b 0
+ans_s 2 ans_b 0
+168
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+169
+123
+s 1 b 0
+ans_s 1 ans_b 1
+169
+356
+s 0 b 1
+ans_s 1 ans_b 0
+169
+327
+s 0 b 0
+ans_s 2 ans_b 0
+169
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+172
+123
+s 1 b 1
+ans_s 1 ans_b 1
+172
+356
+s 0 b 0
+ans_s 1 ans_b 0
+172
+327
+s 0 b 2
+ans_s 2 ans_b 0
+172
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+173
+123
+s 2 b 0
+ans_s 1 ans_b 1
+173
+356
+s 0 b 1
+ans_s 1 ans_b 0
+173
+327
+s 0 b 2
+ans_s 2 ans_b 0
+173
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+174
+123
+s 1 b 0
+ans_s 1 ans_b 1
+174
+356
+s 0 b 0
+ans_s 1 ans_b 0
+174
+327
+s 0 b 1
+ans_s 2 ans_b 0
+174
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+175
+123
+s 1 b 0
+ans_s 1 ans_b 1
+175
+356
+s 0 b 1
+ans_s 1 ans_b 0
+175
+327
+s 0 b 1
+ans_s 2 ans_b 0
+175
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+176
+123
+s 1 b 0
+ans_s 1 ans_b 1
+176
+356
+s 1 b 0
+ans_s 1 ans_b 0
+176
+327
+s 0 b 1
+ans_s 2 ans_b 0
+176
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+178
+123
+s 1 b 0
+ans_s 1 ans_b 1
+178
+356
+s 0 b 0
+ans_s 1 ans_b 0
+178
+327
+s 0 b 1
+ans_s 2 ans_b 0
+178
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+179
+123
+s 1 b 0
+ans_s 1 ans_b 1
+179
+356
+s 0 b 0
+ans_s 1 ans_b 0
+179
+327
+s 0 b 1
+ans_s 2 ans_b 0
+179
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+182
+123
+s 1 b 1
+ans_s 1 ans_b 1
+182
+356
+s 0 b 0
+ans_s 1 ans_b 0
+182
+327
+s 0 b 1
+ans_s 2 ans_b 0
+182
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+183
+123
+s 2 b 0
+ans_s 1 ans_b 1
+183
+356
+s 0 b 1
+ans_s 1 ans_b 0
+183
+327
+s 0 b 1
+ans_s 2 ans_b 0
+183
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+184
+123
+s 1 b 0
+ans_s 1 ans_b 1
+184
+356
+s 0 b 0
+ans_s 1 ans_b 0
+184
+327
+s 0 b 0
+ans_s 2 ans_b 0
+184
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+185
+123
+s 1 b 0
+ans_s 1 ans_b 1
+185
+356
+s 0 b 1
+ans_s 1 ans_b 0
+185
+327
+s 0 b 0
+ans_s 2 ans_b 0
+185
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+186
+123
+s 1 b 0
+ans_s 1 ans_b 1
+186
+356
+s 1 b 0
+ans_s 1 ans_b 0
+186
+327
+s 0 b 0
+ans_s 2 ans_b 0
+186
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+187
+123
+s 1 b 0
+ans_s 1 ans_b 1
+187
+356
+s 0 b 0
+ans_s 1 ans_b 0
+187
+327
+s 1 b 0
+ans_s 2 ans_b 0
+187
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+189
+123
+s 1 b 0
+ans_s 1 ans_b 1
+189
+356
+s 0 b 0
+ans_s 1 ans_b 0
+189
+327
+s 0 b 0
+ans_s 2 ans_b 0
+189
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+192
+123
+s 1 b 1
+ans_s 1 ans_b 1
+192
+356
+s 0 b 0
+ans_s 1 ans_b 0
+192
+327
+s 0 b 1
+ans_s 2 ans_b 0
+192
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+193
+123
+s 2 b 0
+ans_s 1 ans_b 1
+193
+356
+s 0 b 1
+ans_s 1 ans_b 0
+193
+327
+s 0 b 1
+ans_s 2 ans_b 0
+193
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+194
+123
+s 1 b 0
+ans_s 1 ans_b 1
+194
+356
+s 0 b 0
+ans_s 1 ans_b 0
+194
+327
+s 0 b 0
+ans_s 2 ans_b 0
+194
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+195
+123
+s 1 b 0
+ans_s 1 ans_b 1
+195
+356
+s 0 b 1
+ans_s 1 ans_b 0
+195
+327
+s 0 b 0
+ans_s 2 ans_b 0
+195
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+196
+123
+s 1 b 0
+ans_s 1 ans_b 1
+196
+356
+s 1 b 0
+ans_s 1 ans_b 0
+196
+327
+s 0 b 0
+ans_s 2 ans_b 0
+196
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+197
+123
+s 1 b 0
+ans_s 1 ans_b 1
+197
+356
+s 0 b 0
+ans_s 1 ans_b 0
+197
+327
+s 1 b 0
+ans_s 2 ans_b 0
+197
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+198
+123
+s 1 b 0
+ans_s 1 ans_b 1
+198
+356
+s 0 b 0
+ans_s 1 ans_b 0
+198
+327
+s 0 b 0
+ans_s 2 ans_b 0
+198
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+213
+123
+s 1 b 2
+ans_s 1 ans_b 1
+213
+356
+s 0 b 1
+ans_s 1 ans_b 0
+213
+327
+s 0 b 2
+ans_s 2 ans_b 0
+213
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+214
+123
+s 0 b 2
+ans_s 1 ans_b 1
+214
+356
+s 0 b 0
+ans_s 1 ans_b 0
+214
+327
+s 0 b 1
+ans_s 2 ans_b 0
+214
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+215
+123
+s 0 b 2
+ans_s 1 ans_b 1
+215
+356
+s 0 b 1
+ans_s 1 ans_b 0
+215
+327
+s 0 b 1
+ans_s 2 ans_b 0
+215
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+216
+123
+s 0 b 2
+ans_s 1 ans_b 1
+216
+356
+s 1 b 0
+ans_s 1 ans_b 0
+216
+327
+s 0 b 1
+ans_s 2 ans_b 0
+216
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+217
+123
+s 0 b 2
+ans_s 1 ans_b 1
+217
+356
+s 0 b 0
+ans_s 1 ans_b 0
+217
+327
+s 1 b 1
+ans_s 2 ans_b 0
+217
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+218
+123
+s 0 b 2
+ans_s 1 ans_b 1
+218
+356
+s 0 b 0
+ans_s 1 ans_b 0
+218
+327
+s 0 b 1
+ans_s 2 ans_b 0
+218
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+219
+123
+s 0 b 2
+ans_s 1 ans_b 1
+219
+356
+s 0 b 0
+ans_s 1 ans_b 0
+219
+327
+s 0 b 1
+ans_s 2 ans_b 0
+219
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+231
+123
+s 0 b 3
+ans_s 1 ans_b 1
+231
+356
+s 0 b 1
+ans_s 1 ans_b 0
+231
+327
+s 0 b 2
+ans_s 2 ans_b 0
+231
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+234
+123
+s 0 b 2
+ans_s 1 ans_b 1
+234
+356
+s 0 b 1
+ans_s 1 ans_b 0
+234
+327
+s 0 b 2
+ans_s 2 ans_b 0
+234
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+235
+123
+s 0 b 2
+ans_s 1 ans_b 1
+235
+356
+s 0 b 2
+ans_s 1 ans_b 0
+235
+327
+s 0 b 2
+ans_s 2 ans_b 0
+235
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+236
+123
+s 0 b 2
+ans_s 1 ans_b 1
+236
+356
+s 1 b 1
+ans_s 1 ans_b 0
+236
+327
+s 0 b 2
+ans_s 2 ans_b 0
+236
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+237
+123
+s 0 b 2
+ans_s 1 ans_b 1
+237
+356
+s 0 b 1
+ans_s 1 ans_b 0
+237
+327
+s 1 b 2
+ans_s 2 ans_b 0
+237
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+238
+123
+s 0 b 2
+ans_s 1 ans_b 1
+238
+356
+s 0 b 1
+ans_s 1 ans_b 0
+238
+327
+s 0 b 2
+ans_s 2 ans_b 0
+238
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+239
+123
+s 0 b 2
+ans_s 1 ans_b 1
+239
+356
+s 0 b 1
+ans_s 1 ans_b 0
+239
+327
+s 0 b 2
+ans_s 2 ans_b 0
+239
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+241
+123
+s 0 b 2
+ans_s 1 ans_b 1
+241
+356
+s 0 b 0
+ans_s 1 ans_b 0
+241
+327
+s 0 b 1
+ans_s 2 ans_b 0
+241
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+243
+123
+s 1 b 1
+ans_s 1 ans_b 1
+243
+356
+s 0 b 1
+ans_s 1 ans_b 0
+243
+327
+s 0 b 2
+ans_s 2 ans_b 0
+243
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+245
+123
+s 0 b 1
+ans_s 1 ans_b 1
+245
+356
+s 0 b 1
+ans_s 1 ans_b 0
+245
+327
+s 0 b 1
+ans_s 2 ans_b 0
+245
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+246
+123
+s 0 b 1
+ans_s 1 ans_b 1
+246
+356
+s 1 b 0
+ans_s 1 ans_b 0
+246
+327
+s 0 b 1
+ans_s 2 ans_b 0
+246
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+247
+123
+s 0 b 1
+ans_s 1 ans_b 1
+247
+356
+s 0 b 0
+ans_s 1 ans_b 0
+247
+327
+s 1 b 1
+ans_s 2 ans_b 0
+247
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+248
+123
+s 0 b 1
+ans_s 1 ans_b 1
+248
+356
+s 0 b 0
+ans_s 1 ans_b 0
+248
+327
+s 0 b 1
+ans_s 2 ans_b 0
+248
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+249
+123
+s 0 b 1
+ans_s 1 ans_b 1
+249
+356
+s 0 b 0
+ans_s 1 ans_b 0
+249
+327
+s 0 b 1
+ans_s 2 ans_b 0
+249
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+251
+123
+s 0 b 2
+ans_s 1 ans_b 1
+251
+356
+s 1 b 0
+ans_s 1 ans_b 0
+251
+327
+s 0 b 1
+ans_s 2 ans_b 0
+251
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+253
+123
+s 1 b 1
+ans_s 1 ans_b 1
+253
+356
+s 1 b 1
+ans_s 1 ans_b 0
+253
+327
+s 0 b 2
+ans_s 2 ans_b 0
+253
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+254
+123
+s 0 b 1
+ans_s 1 ans_b 1
+254
+356
+s 1 b 0
+ans_s 1 ans_b 0
+254
+327
+s 0 b 1
+ans_s 2 ans_b 0
+254
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+256
+123
+s 0 b 1
+ans_s 1 ans_b 1
+256
+356
+s 2 b 0
+ans_s 1 ans_b 0
+256
+327
+s 0 b 1
+ans_s 2 ans_b 0
+256
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+257
+123
+s 0 b 1
+ans_s 1 ans_b 1
+257
+356
+s 1 b 0
+ans_s 1 ans_b 0
+257
+327
+s 1 b 1
+ans_s 2 ans_b 0
+257
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+258
+123
+s 0 b 1
+ans_s 1 ans_b 1
+258
+356
+s 1 b 0
+ans_s 1 ans_b 0
+258
+327
+s 0 b 1
+ans_s 2 ans_b 0
+258
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+259
+123
+s 0 b 1
+ans_s 1 ans_b 1
+259
+356
+s 1 b 0
+ans_s 1 ans_b 0
+259
+327
+s 0 b 1
+ans_s 2 ans_b 0
+259
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+261
+123
+s 0 b 2
+ans_s 1 ans_b 1
+261
+356
+s 0 b 1
+ans_s 1 ans_b 0
+261
+327
+s 0 b 1
+ans_s 2 ans_b 0
+261
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+263
+123
+s 1 b 1
+ans_s 1 ans_b 1
+263
+356
+s 0 b 2
+ans_s 1 ans_b 0
+263
+327
+s 0 b 2
+ans_s 2 ans_b 0
+263
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+264
+123
+s 0 b 1
+ans_s 1 ans_b 1
+264
+356
+s 0 b 1
+ans_s 1 ans_b 0
+264
+327
+s 0 b 1
+ans_s 2 ans_b 0
+264
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+265
+123
+s 0 b 1
+ans_s 1 ans_b 1
+265
+356
+s 0 b 2
+ans_s 1 ans_b 0
+265
+327
+s 0 b 1
+ans_s 2 ans_b 0
+265
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+267
+123
+s 0 b 1
+ans_s 1 ans_b 1
+267
+356
+s 0 b 1
+ans_s 1 ans_b 0
+267
+327
+s 1 b 1
+ans_s 2 ans_b 0
+267
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+268
+123
+s 0 b 1
+ans_s 1 ans_b 1
+268
+356
+s 0 b 1
+ans_s 1 ans_b 0
+268
+327
+s 0 b 1
+ans_s 2 ans_b 0
+268
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+269
+123
+s 0 b 1
+ans_s 1 ans_b 1
+269
+356
+s 0 b 1
+ans_s 1 ans_b 0
+269
+327
+s 0 b 1
+ans_s 2 ans_b 0
+269
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+271
+123
+s 0 b 2
+ans_s 1 ans_b 1
+271
+356
+s 0 b 0
+ans_s 1 ans_b 0
+271
+327
+s 0 b 2
+ans_s 2 ans_b 0
+271
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+273
+123
+s 1 b 1
+ans_s 1 ans_b 1
+273
+356
+s 0 b 1
+ans_s 1 ans_b 0
+273
+327
+s 0 b 3
+ans_s 2 ans_b 0
+273
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+274
+123
+s 0 b 1
+ans_s 1 ans_b 1
+274
+356
+s 0 b 0
+ans_s 1 ans_b 0
+274
+327
+s 0 b 2
+ans_s 2 ans_b 0
+274
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+275
+123
+s 0 b 1
+ans_s 1 ans_b 1
+275
+356
+s 0 b 1
+ans_s 1 ans_b 0
+275
+327
+s 0 b 2
+ans_s 2 ans_b 0
+275
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+276
+123
+s 0 b 1
+ans_s 1 ans_b 1
+276
+356
+s 1 b 0
+ans_s 1 ans_b 0
+276
+327
+s 0 b 2
+ans_s 2 ans_b 0
+276
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+278
+123
+s 0 b 1
+ans_s 1 ans_b 1
+278
+356
+s 0 b 0
+ans_s 1 ans_b 0
+278
+327
+s 0 b 2
+ans_s 2 ans_b 0
+278
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+279
+123
+s 0 b 1
+ans_s 1 ans_b 1
+279
+356
+s 0 b 0
+ans_s 1 ans_b 0
+279
+327
+s 0 b 2
+ans_s 2 ans_b 0
+279
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+281
+123
+s 0 b 2
+ans_s 1 ans_b 1
+281
+356
+s 0 b 0
+ans_s 1 ans_b 0
+281
+327
+s 0 b 1
+ans_s 2 ans_b 0
+281
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+283
+123
+s 1 b 1
+ans_s 1 ans_b 1
+283
+356
+s 0 b 1
+ans_s 1 ans_b 0
+283
+327
+s 0 b 2
+ans_s 2 ans_b 0
+283
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+284
+123
+s 0 b 1
+ans_s 1 ans_b 1
+284
+356
+s 0 b 0
+ans_s 1 ans_b 0
+284
+327
+s 0 b 1
+ans_s 2 ans_b 0
+284
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+285
+123
+s 0 b 1
+ans_s 1 ans_b 1
+285
+356
+s 0 b 1
+ans_s 1 ans_b 0
+285
+327
+s 0 b 1
+ans_s 2 ans_b 0
+285
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+286
+123
+s 0 b 1
+ans_s 1 ans_b 1
+286
+356
+s 1 b 0
+ans_s 1 ans_b 0
+286
+327
+s 0 b 1
+ans_s 2 ans_b 0
+286
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+287
+123
+s 0 b 1
+ans_s 1 ans_b 1
+287
+356
+s 0 b 0
+ans_s 1 ans_b 0
+287
+327
+s 1 b 1
+ans_s 2 ans_b 0
+287
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+289
+123
+s 0 b 1
+ans_s 1 ans_b 1
+289
+356
+s 0 b 0
+ans_s 1 ans_b 0
+289
+327
+s 0 b 1
+ans_s 2 ans_b 0
+289
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+291
+123
+s 0 b 2
+ans_s 1 ans_b 1
+291
+356
+s 0 b 0
+ans_s 1 ans_b 0
+291
+327
+s 0 b 1
+ans_s 2 ans_b 0
+291
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+293
+123
+s 1 b 1
+ans_s 1 ans_b 1
+293
+356
+s 0 b 1
+ans_s 1 ans_b 0
+293
+327
+s 0 b 2
+ans_s 2 ans_b 0
+293
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+294
+123
+s 0 b 1
+ans_s 1 ans_b 1
+294
+356
+s 0 b 0
+ans_s 1 ans_b 0
+294
+327
+s 0 b 1
+ans_s 2 ans_b 0
+294
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+295
+123
+s 0 b 1
+ans_s 1 ans_b 1
+295
+356
+s 0 b 1
+ans_s 1 ans_b 0
+295
+327
+s 0 b 1
+ans_s 2 ans_b 0
+295
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+296
+123
+s 0 b 1
+ans_s 1 ans_b 1
+296
+356
+s 1 b 0
+ans_s 1 ans_b 0
+296
+327
+s 0 b 1
+ans_s 2 ans_b 0
+296
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+297
+123
+s 0 b 1
+ans_s 1 ans_b 1
+297
+356
+s 0 b 0
+ans_s 1 ans_b 0
+297
+327
+s 1 b 1
+ans_s 2 ans_b 0
+297
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+298
+123
+s 0 b 1
+ans_s 1 ans_b 1
+298
+356
+s 0 b 0
+ans_s 1 ans_b 0
+298
+327
+s 0 b 1
+ans_s 2 ans_b 0
+298
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+312
+123
+s 0 b 3
+ans_s 1 ans_b 1
+312
+356
+s 1 b 0
+ans_s 1 ans_b 0
+312
+327
+s 1 b 1
+ans_s 2 ans_b 0
+312
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+314
+123
+s 0 b 2
+ans_s 1 ans_b 1
+314
+356
+s 1 b 0
+ans_s 1 ans_b 0
+314
+327
+s 1 b 0
+ans_s 2 ans_b 0
+314
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+315
+123
+s 0 b 2
+ans_s 1 ans_b 1
+315
+356
+s 1 b 1
+ans_s 1 ans_b 0
+315
+327
+s 1 b 0
+ans_s 2 ans_b 0
+315
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+316
+123
+s 0 b 2
+ans_s 1 ans_b 1
+316
+356
+s 2 b 0
+ans_s 1 ans_b 0
+316
+327
+s 1 b 0
+ans_s 2 ans_b 0
+316
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+317
+123
+s 0 b 2
+ans_s 1 ans_b 1
+317
+356
+s 1 b 0
+ans_s 1 ans_b 0
+317
+327
+s 2 b 0
+ans_s 2 ans_b 0
+317
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+318
+123
+s 0 b 2
+ans_s 1 ans_b 1
+318
+356
+s 1 b 0
+ans_s 1 ans_b 0
+318
+327
+s 1 b 0
+ans_s 2 ans_b 0
+318
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+319
+123
+s 0 b 2
+ans_s 1 ans_b 1
+319
+356
+s 1 b 0
+ans_s 1 ans_b 0
+319
+327
+s 1 b 0
+ans_s 2 ans_b 0
+319
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+321
+123
+s 1 b 2
+ans_s 1 ans_b 1
+321
+356
+s 1 b 0
+ans_s 1 ans_b 0
+321
+327
+s 2 b 0
+ans_s 2 ans_b 0
+321
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+324
+123
+s 1 b 1
+ans_s 1 ans_b 1
+324
+356
+s 1 b 0
+ans_s 1 ans_b 0
+324
+327
+s 2 b 0
+ans_s 2 ans_b 0
+324
+489
+s 0 b 1
+ans_s 0 ans_b 1
+4
+325
+123
+s 1 b 1
+ans_s 1 ans_b 1
+325
+356
+s 1 b 1
+ans_s 1 ans_b 0
+325
+327
+s 2 b 0
+ans_s 2 ans_b 0
+325
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+326
+123
+s 1 b 1
+ans_s 1 ans_b 1
+326
+356
+s 2 b 0
+ans_s 1 ans_b 0
+326
+327
+s 2 b 0
+ans_s 2 ans_b 0
+326
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+327
+123
+s 1 b 1
+ans_s 1 ans_b 1
+327
+356
+s 1 b 0
+ans_s 1 ans_b 0
+327
+327
+s 3 b 0
+ans_s 2 ans_b 0
+327
+489
+s 0 b 0
+ans_s 0 ans_b 1
+2
+328
+123
+s 1 b 1
+ans_s 1 ans_b 1
+328
+356
+s 1 b 0
+ans_s 1 ans_b 0
+328
+327
+s 2 b 0
+ans_s 2 ans_b 0
+328
+489
+s 0 b 1
+ans_s 0 ans_b 1
+4
+329
+123
+s 1 b 1
+ans_s 1 ans_b 1
+329
+356
+s 1 b 0
+ans_s 1 ans_b 0
+329
+327
+s 2 b 0
+ans_s 2 ans_b 0
+329
+489
+s 1 b 0
+ans_s 0 ans_b 1
+3
+341
+123
+s 0 b 2
+ans_s 1 ans_b 1
+341
+356
+s 1 b 0
+ans_s 1 ans_b 0
+341
+327
+s 1 b 0
+ans_s 2 ans_b 0
+341
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+342
+123
+s 0 b 2
+ans_s 1 ans_b 1
+342
+356
+s 1 b 0
+ans_s 1 ans_b 0
+342
+327
+s 1 b 1
+ans_s 2 ans_b 0
+342
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+345
+123
+s 0 b 1
+ans_s 1 ans_b 1
+345
+356
+s 1 b 1
+ans_s 1 ans_b 0
+345
+327
+s 1 b 0
+ans_s 2 ans_b 0
+345
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+346
+123
+s 0 b 1
+ans_s 1 ans_b 1
+346
+356
+s 2 b 0
+ans_s 1 ans_b 0
+346
+327
+s 1 b 0
+ans_s 2 ans_b 0
+346
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+347
+123
+s 0 b 1
+ans_s 1 ans_b 1
+347
+356
+s 1 b 0
+ans_s 1 ans_b 0
+347
+327
+s 2 b 0
+ans_s 2 ans_b 0
+347
+489
+s 0 b 1
+ans_s 0 ans_b 1
+3
+348
+123
+s 0 b 1
+ans_s 1 ans_b 1
+348
+356
+s 1 b 0
+ans_s 1 ans_b 0
+348
+327
+s 1 b 0
+ans_s 2 ans_b 0
+348
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+349
+123
+s 0 b 1
+ans_s 1 ans_b 1
+349
+356
+s 1 b 0
+ans_s 1 ans_b 0
+349
+327
+s 1 b 0
+ans_s 2 ans_b 0
+349
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+351
+123
+s 0 b 2
+ans_s 1 ans_b 1
+351
+356
+s 2 b 0
+ans_s 1 ans_b 0
+351
+327
+s 1 b 0
+ans_s 2 ans_b 0
+351
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+352
+123
+s 0 b 2
+ans_s 1 ans_b 1
+352
+356
+s 2 b 0
+ans_s 1 ans_b 0
+352
+327
+s 1 b 1
+ans_s 2 ans_b 0
+352
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+354
+123
+s 0 b 1
+ans_s 1 ans_b 1
+354
+356
+s 2 b 0
+ans_s 1 ans_b 0
+354
+327
+s 1 b 0
+ans_s 2 ans_b 0
+354
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+356
+123
+s 0 b 1
+ans_s 1 ans_b 1
+356
+356
+s 3 b 0
+ans_s 1 ans_b 0
+356
+327
+s 1 b 0
+ans_s 2 ans_b 0
+356
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+357
+123
+s 0 b 1
+ans_s 1 ans_b 1
+357
+356
+s 2 b 0
+ans_s 1 ans_b 0
+357
+327
+s 2 b 0
+ans_s 2 ans_b 0
+357
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+358
+123
+s 0 b 1
+ans_s 1 ans_b 1
+358
+356
+s 2 b 0
+ans_s 1 ans_b 0
+358
+327
+s 1 b 0
+ans_s 2 ans_b 0
+358
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+359
+123
+s 0 b 1
+ans_s 1 ans_b 1
+359
+356
+s 2 b 0
+ans_s 1 ans_b 0
+359
+327
+s 1 b 0
+ans_s 2 ans_b 0
+359
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+361
+123
+s 0 b 2
+ans_s 1 ans_b 1
+361
+356
+s 1 b 1
+ans_s 1 ans_b 0
+361
+327
+s 1 b 0
+ans_s 2 ans_b 0
+361
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+362
+123
+s 0 b 2
+ans_s 1 ans_b 1
+362
+356
+s 1 b 1
+ans_s 1 ans_b 0
+362
+327
+s 1 b 1
+ans_s 2 ans_b 0
+362
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+364
+123
+s 0 b 1
+ans_s 1 ans_b 1
+364
+356
+s 1 b 1
+ans_s 1 ans_b 0
+364
+327
+s 1 b 0
+ans_s 2 ans_b 0
+364
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+365
+123
+s 0 b 1
+ans_s 1 ans_b 1
+365
+356
+s 1 b 2
+ans_s 1 ans_b 0
+365
+327
+s 1 b 0
+ans_s 2 ans_b 0
+365
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+367
+123
+s 0 b 1
+ans_s 1 ans_b 1
+367
+356
+s 1 b 1
+ans_s 1 ans_b 0
+367
+327
+s 2 b 0
+ans_s 2 ans_b 0
+367
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+368
+123
+s 0 b 1
+ans_s 1 ans_b 1
+368
+356
+s 1 b 1
+ans_s 1 ans_b 0
+368
+327
+s 1 b 0
+ans_s 2 ans_b 0
+368
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+369
+123
+s 0 b 1
+ans_s 1 ans_b 1
+369
+356
+s 1 b 1
+ans_s 1 ans_b 0
+369
+327
+s 1 b 0
+ans_s 2 ans_b 0
+369
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+371
+123
+s 0 b 2
+ans_s 1 ans_b 1
+371
+356
+s 1 b 0
+ans_s 1 ans_b 0
+371
+327
+s 1 b 1
+ans_s 2 ans_b 0
+371
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+372
+123
+s 0 b 2
+ans_s 1 ans_b 1
+372
+356
+s 1 b 0
+ans_s 1 ans_b 0
+372
+327
+s 1 b 2
+ans_s 2 ans_b 0
+372
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+374
+123
+s 0 b 1
+ans_s 1 ans_b 1
+374
+356
+s 1 b 0
+ans_s 1 ans_b 0
+374
+327
+s 1 b 1
+ans_s 2 ans_b 0
+374
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+375
+123
+s 0 b 1
+ans_s 1 ans_b 1
+375
+356
+s 1 b 1
+ans_s 1 ans_b 0
+375
+327
+s 1 b 1
+ans_s 2 ans_b 0
+375
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+376
+123
+s 0 b 1
+ans_s 1 ans_b 1
+376
+356
+s 2 b 0
+ans_s 1 ans_b 0
+376
+327
+s 1 b 1
+ans_s 2 ans_b 0
+376
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+378
+123
+s 0 b 1
+ans_s 1 ans_b 1
+378
+356
+s 1 b 0
+ans_s 1 ans_b 0
+378
+327
+s 1 b 1
+ans_s 2 ans_b 0
+378
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+379
+123
+s 0 b 1
+ans_s 1 ans_b 1
+379
+356
+s 1 b 0
+ans_s 1 ans_b 0
+379
+327
+s 1 b 1
+ans_s 2 ans_b 0
+379
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+381
+123
+s 0 b 2
+ans_s 1 ans_b 1
+381
+356
+s 1 b 0
+ans_s 1 ans_b 0
+381
+327
+s 1 b 0
+ans_s 2 ans_b 0
+381
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+382
+123
+s 0 b 2
+ans_s 1 ans_b 1
+382
+356
+s 1 b 0
+ans_s 1 ans_b 0
+382
+327
+s 1 b 1
+ans_s 2 ans_b 0
+382
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+384
+123
+s 0 b 1
+ans_s 1 ans_b 1
+384
+356
+s 1 b 0
+ans_s 1 ans_b 0
+384
+327
+s 1 b 0
+ans_s 2 ans_b 0
+384
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+385
+123
+s 0 b 1
+ans_s 1 ans_b 1
+385
+356
+s 1 b 1
+ans_s 1 ans_b 0
+385
+327
+s 1 b 0
+ans_s 2 ans_b 0
+385
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+386
+123
+s 0 b 1
+ans_s 1 ans_b 1
+386
+356
+s 2 b 0
+ans_s 1 ans_b 0
+386
+327
+s 1 b 0
+ans_s 2 ans_b 0
+386
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+387
+123
+s 0 b 1
+ans_s 1 ans_b 1
+387
+356
+s 1 b 0
+ans_s 1 ans_b 0
+387
+327
+s 2 b 0
+ans_s 2 ans_b 0
+387
+489
+s 1 b 0
+ans_s 0 ans_b 1
+2
+389
+123
+s 0 b 1
+ans_s 1 ans_b 1
+389
+356
+s 1 b 0
+ans_s 1 ans_b 0
+389
+327
+s 1 b 0
+ans_s 2 ans_b 0
+389
+489
+s 2 b 0
+ans_s 0 ans_b 1
+1
+391
+123
+s 0 b 2
+ans_s 1 ans_b 1
+391
+356
+s 1 b 0
+ans_s 1 ans_b 0
+391
+327
+s 1 b 0
+ans_s 2 ans_b 0
+391
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+392
+123
+s 0 b 2
+ans_s 1 ans_b 1
+392
+356
+s 1 b 0
+ans_s 1 ans_b 0
+392
+327
+s 1 b 1
+ans_s 2 ans_b 0
+392
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+394
+123
+s 0 b 1
+ans_s 1 ans_b 1
+394
+356
+s 1 b 0
+ans_s 1 ans_b 0
+394
+327
+s 1 b 0
+ans_s 2 ans_b 0
+394
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+395
+123
+s 0 b 1
+ans_s 1 ans_b 1
+395
+356
+s 1 b 1
+ans_s 1 ans_b 0
+395
+327
+s 1 b 0
+ans_s 2 ans_b 0
+395
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+396
+123
+s 0 b 1
+ans_s 1 ans_b 1
+396
+356
+s 2 b 0
+ans_s 1 ans_b 0
+396
+327
+s 1 b 0
+ans_s 2 ans_b 0
+396
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+397
+123
+s 0 b 1
+ans_s 1 ans_b 1
+397
+356
+s 1 b 0
+ans_s 1 ans_b 0
+397
+327
+s 2 b 0
+ans_s 2 ans_b 0
+397
+489
+s 0 b 1
+ans_s 0 ans_b 1
+3
+398
+123
+s 0 b 1
+ans_s 1 ans_b 1
+398
+356
+s 1 b 0
+ans_s 1 ans_b 0
+398
+327
+s 1 b 0
+ans_s 2 ans_b 0
+398
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+412
+123
+s 0 b 2
+ans_s 1 ans_b 1
+412
+356
+s 0 b 0
+ans_s 1 ans_b 0
+412
+327
+s 0 b 1
+ans_s 2 ans_b 0
+412
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+413
+123
+s 1 b 1
+ans_s 1 ans_b 1
+413
+356
+s 0 b 1
+ans_s 1 ans_b 0
+413
+327
+s 0 b 1
+ans_s 2 ans_b 0
+413
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+415
+123
+s 0 b 1
+ans_s 1 ans_b 1
+415
+356
+s 0 b 1
+ans_s 1 ans_b 0
+415
+327
+s 0 b 0
+ans_s 2 ans_b 0
+415
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+416
+123
+s 0 b 1
+ans_s 1 ans_b 1
+416
+356
+s 1 b 0
+ans_s 1 ans_b 0
+416
+327
+s 0 b 0
+ans_s 2 ans_b 0
+416
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+417
+123
+s 0 b 1
+ans_s 1 ans_b 1
+417
+356
+s 0 b 0
+ans_s 1 ans_b 0
+417
+327
+s 1 b 0
+ans_s 2 ans_b 0
+417
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+418
+123
+s 0 b 1
+ans_s 1 ans_b 1
+418
+356
+s 0 b 0
+ans_s 1 ans_b 0
+418
+327
+s 0 b 0
+ans_s 2 ans_b 0
+418
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+419
+123
+s 0 b 1
+ans_s 1 ans_b 1
+419
+356
+s 0 b 0
+ans_s 1 ans_b 0
+419
+327
+s 0 b 0
+ans_s 2 ans_b 0
+419
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+421
+123
+s 1 b 1
+ans_s 1 ans_b 1
+421
+356
+s 0 b 0
+ans_s 1 ans_b 0
+421
+327
+s 1 b 0
+ans_s 2 ans_b 0
+421
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+423
+123
+s 2 b 0
+ans_s 1 ans_b 1
+423
+356
+s 0 b 1
+ans_s 1 ans_b 0
+423
+327
+s 1 b 1
+ans_s 2 ans_b 0
+423
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+425
+123
+s 1 b 0
+ans_s 1 ans_b 1
+425
+356
+s 0 b 1
+ans_s 1 ans_b 0
+425
+327
+s 1 b 0
+ans_s 2 ans_b 0
+425
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+426
+123
+s 1 b 0
+ans_s 1 ans_b 1
+426
+356
+s 1 b 0
+ans_s 1 ans_b 0
+426
+327
+s 1 b 0
+ans_s 2 ans_b 0
+426
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+427
+123
+s 1 b 0
+ans_s 1 ans_b 1
+427
+356
+s 0 b 0
+ans_s 1 ans_b 0
+427
+327
+s 2 b 0
+ans_s 2 ans_b 0
+427
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+428
+123
+s 1 b 0
+ans_s 1 ans_b 1
+428
+356
+s 0 b 0
+ans_s 1 ans_b 0
+428
+327
+s 1 b 0
+ans_s 2 ans_b 0
+428
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+429
+123
+s 1 b 0
+ans_s 1 ans_b 1
+429
+356
+s 0 b 0
+ans_s 1 ans_b 0
+429
+327
+s 1 b 0
+ans_s 2 ans_b 0
+429
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+431
+123
+s 0 b 2
+ans_s 1 ans_b 1
+431
+356
+s 0 b 1
+ans_s 1 ans_b 0
+431
+327
+s 0 b 1
+ans_s 2 ans_b 0
+431
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+432
+123
+s 0 b 2
+ans_s 1 ans_b 1
+432
+356
+s 0 b 1
+ans_s 1 ans_b 0
+432
+327
+s 0 b 2
+ans_s 2 ans_b 0
+432
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+435
+123
+s 0 b 1
+ans_s 1 ans_b 1
+435
+356
+s 0 b 2
+ans_s 1 ans_b 0
+435
+327
+s 0 b 1
+ans_s 2 ans_b 0
+435
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+436
+123
+s 0 b 1
+ans_s 1 ans_b 1
+436
+356
+s 1 b 1
+ans_s 1 ans_b 0
+436
+327
+s 0 b 1
+ans_s 2 ans_b 0
+436
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+437
+123
+s 0 b 1
+ans_s 1 ans_b 1
+437
+356
+s 0 b 1
+ans_s 1 ans_b 0
+437
+327
+s 1 b 1
+ans_s 2 ans_b 0
+437
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+438
+123
+s 0 b 1
+ans_s 1 ans_b 1
+438
+356
+s 0 b 1
+ans_s 1 ans_b 0
+438
+327
+s 0 b 1
+ans_s 2 ans_b 0
+438
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+439
+123
+s 0 b 1
+ans_s 1 ans_b 1
+439
+356
+s 0 b 1
+ans_s 1 ans_b 0
+439
+327
+s 0 b 1
+ans_s 2 ans_b 0
+439
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+451
+123
+s 0 b 1
+ans_s 1 ans_b 1
+451
+356
+s 1 b 0
+ans_s 1 ans_b 0
+451
+327
+s 0 b 0
+ans_s 2 ans_b 0
+451
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+452
+123
+s 0 b 1
+ans_s 1 ans_b 1
+452
+356
+s 1 b 0
+ans_s 1 ans_b 0
+452
+327
+s 0 b 1
+ans_s 2 ans_b 0
+452
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+453
+123
+s 1 b 0
+ans_s 1 ans_b 1
+453
+356
+s 1 b 1
+ans_s 1 ans_b 0
+453
+327
+s 0 b 1
+ans_s 2 ans_b 0
+453
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+456
+123
+s 0 b 0
+ans_s 1 ans_b 1
+456
+356
+s 2 b 0
+ans_s 1 ans_b 0
+456
+327
+s 0 b 0
+ans_s 2 ans_b 0
+456
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+457
+123
+s 0 b 0
+ans_s 1 ans_b 1
+457
+356
+s 1 b 0
+ans_s 1 ans_b 0
+457
+327
+s 1 b 0
+ans_s 2 ans_b 0
+457
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+458
+123
+s 0 b 0
+ans_s 1 ans_b 1
+458
+356
+s 1 b 0
+ans_s 1 ans_b 0
+458
+327
+s 0 b 0
+ans_s 2 ans_b 0
+458
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+459
+123
+s 0 b 0
+ans_s 1 ans_b 1
+459
+356
+s 1 b 0
+ans_s 1 ans_b 0
+459
+327
+s 0 b 0
+ans_s 2 ans_b 0
+459
+489
+s 2 b 0
+ans_s 0 ans_b 1
+1
+461
+123
+s 0 b 1
+ans_s 1 ans_b 1
+461
+356
+s 0 b 1
+ans_s 1 ans_b 0
+461
+327
+s 0 b 0
+ans_s 2 ans_b 0
+461
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+462
+123
+s 0 b 1
+ans_s 1 ans_b 1
+462
+356
+s 0 b 1
+ans_s 1 ans_b 0
+462
+327
+s 0 b 1
+ans_s 2 ans_b 0
+462
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+463
+123
+s 1 b 0
+ans_s 1 ans_b 1
+463
+356
+s 0 b 2
+ans_s 1 ans_b 0
+463
+327
+s 0 b 1
+ans_s 2 ans_b 0
+463
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+465
+123
+s 0 b 0
+ans_s 1 ans_b 1
+465
+356
+s 0 b 2
+ans_s 1 ans_b 0
+465
+327
+s 0 b 0
+ans_s 2 ans_b 0
+465
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+467
+123
+s 0 b 0
+ans_s 1 ans_b 1
+467
+356
+s 0 b 1
+ans_s 1 ans_b 0
+467
+327
+s 1 b 0
+ans_s 2 ans_b 0
+467
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+468
+123
+s 0 b 0
+ans_s 1 ans_b 1
+468
+356
+s 0 b 1
+ans_s 1 ans_b 0
+468
+327
+s 0 b 0
+ans_s 2 ans_b 0
+468
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+469
+123
+s 0 b 0
+ans_s 1 ans_b 1
+469
+356
+s 0 b 1
+ans_s 1 ans_b 0
+469
+327
+s 0 b 0
+ans_s 2 ans_b 0
+469
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+471
+123
+s 0 b 1
+ans_s 1 ans_b 1
+471
+356
+s 0 b 0
+ans_s 1 ans_b 0
+471
+327
+s 0 b 1
+ans_s 2 ans_b 0
+471
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+472
+123
+s 0 b 1
+ans_s 1 ans_b 1
+472
+356
+s 0 b 0
+ans_s 1 ans_b 0
+472
+327
+s 0 b 2
+ans_s 2 ans_b 0
+472
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+473
+123
+s 1 b 0
+ans_s 1 ans_b 1
+473
+356
+s 0 b 1
+ans_s 1 ans_b 0
+473
+327
+s 0 b 2
+ans_s 2 ans_b 0
+473
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+475
+123
+s 0 b 0
+ans_s 1 ans_b 1
+475
+356
+s 0 b 1
+ans_s 1 ans_b 0
+475
+327
+s 0 b 1
+ans_s 2 ans_b 0
+475
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+476
+123
+s 0 b 0
+ans_s 1 ans_b 1
+476
+356
+s 1 b 0
+ans_s 1 ans_b 0
+476
+327
+s 0 b 1
+ans_s 2 ans_b 0
+476
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+478
+123
+s 0 b 0
+ans_s 1 ans_b 1
+478
+356
+s 0 b 0
+ans_s 1 ans_b 0
+478
+327
+s 0 b 1
+ans_s 2 ans_b 0
+478
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+479
+123
+s 0 b 0
+ans_s 1 ans_b 1
+479
+356
+s 0 b 0
+ans_s 1 ans_b 0
+479
+327
+s 0 b 1
+ans_s 2 ans_b 0
+479
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+481
+123
+s 0 b 1
+ans_s 1 ans_b 1
+481
+356
+s 0 b 0
+ans_s 1 ans_b 0
+481
+327
+s 0 b 0
+ans_s 2 ans_b 0
+481
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+482
+123
+s 0 b 1
+ans_s 1 ans_b 1
+482
+356
+s 0 b 0
+ans_s 1 ans_b 0
+482
+327
+s 0 b 1
+ans_s 2 ans_b 0
+482
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+483
+123
+s 1 b 0
+ans_s 1 ans_b 1
+483
+356
+s 0 b 1
+ans_s 1 ans_b 0
+483
+327
+s 0 b 1
+ans_s 2 ans_b 0
+483
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+485
+123
+s 0 b 0
+ans_s 1 ans_b 1
+485
+356
+s 0 b 1
+ans_s 1 ans_b 0
+485
+327
+s 0 b 0
+ans_s 2 ans_b 0
+485
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+486
+123
+s 0 b 0
+ans_s 1 ans_b 1
+486
+356
+s 1 b 0
+ans_s 1 ans_b 0
+486
+327
+s 0 b 0
+ans_s 2 ans_b 0
+486
+489
+s 2 b 0
+ans_s 0 ans_b 1
+1
+487
+123
+s 0 b 0
+ans_s 1 ans_b 1
+487
+356
+s 0 b 0
+ans_s 1 ans_b 0
+487
+327
+s 1 b 0
+ans_s 2 ans_b 0
+487
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+489
+123
+s 0 b 0
+ans_s 1 ans_b 1
+489
+356
+s 0 b 0
+ans_s 1 ans_b 0
+489
+327
+s 0 b 0
+ans_s 2 ans_b 0
+489
+489
+s 3 b 0
+ans_s 0 ans_b 1
+0
+491
+123
+s 0 b 1
+ans_s 1 ans_b 1
+491
+356
+s 0 b 0
+ans_s 1 ans_b 0
+491
+327
+s 0 b 0
+ans_s 2 ans_b 0
+491
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+492
+123
+s 0 b 1
+ans_s 1 ans_b 1
+492
+356
+s 0 b 0
+ans_s 1 ans_b 0
+492
+327
+s 0 b 1
+ans_s 2 ans_b 0
+492
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+493
+123
+s 1 b 0
+ans_s 1 ans_b 1
+493
+356
+s 0 b 1
+ans_s 1 ans_b 0
+493
+327
+s 0 b 1
+ans_s 2 ans_b 0
+493
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+495
+123
+s 0 b 0
+ans_s 1 ans_b 1
+495
+356
+s 0 b 1
+ans_s 1 ans_b 0
+495
+327
+s 0 b 0
+ans_s 2 ans_b 0
+495
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+496
+123
+s 0 b 0
+ans_s 1 ans_b 1
+496
+356
+s 1 b 0
+ans_s 1 ans_b 0
+496
+327
+s 0 b 0
+ans_s 2 ans_b 0
+496
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+497
+123
+s 0 b 0
+ans_s 1 ans_b 1
+497
+356
+s 0 b 0
+ans_s 1 ans_b 0
+497
+327
+s 1 b 0
+ans_s 2 ans_b 0
+497
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+498
+123
+s 0 b 0
+ans_s 1 ans_b 1
+498
+356
+s 0 b 0
+ans_s 1 ans_b 0
+498
+327
+s 0 b 0
+ans_s 2 ans_b 0
+498
+489
+s 1 b 2
+ans_s 0 ans_b 1
+0
+512
+123
+s 0 b 2
+ans_s 1 ans_b 1
+512
+356
+s 0 b 1
+ans_s 1 ans_b 0
+512
+327
+s 0 b 1
+ans_s 2 ans_b 0
+512
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+513
+123
+s 1 b 1
+ans_s 1 ans_b 1
+513
+356
+s 0 b 2
+ans_s 1 ans_b 0
+513
+327
+s 0 b 1
+ans_s 2 ans_b 0
+513
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+514
+123
+s 0 b 1
+ans_s 1 ans_b 1
+514
+356
+s 0 b 1
+ans_s 1 ans_b 0
+514
+327
+s 0 b 0
+ans_s 2 ans_b 0
+514
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+516
+123
+s 0 b 1
+ans_s 1 ans_b 1
+516
+356
+s 1 b 1
+ans_s 1 ans_b 0
+516
+327
+s 0 b 0
+ans_s 2 ans_b 0
+516
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+517
+123
+s 0 b 1
+ans_s 1 ans_b 1
+517
+356
+s 0 b 1
+ans_s 1 ans_b 0
+517
+327
+s 1 b 0
+ans_s 2 ans_b 0
+517
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+518
+123
+s 0 b 1
+ans_s 1 ans_b 1
+518
+356
+s 0 b 1
+ans_s 1 ans_b 0
+518
+327
+s 0 b 0
+ans_s 2 ans_b 0
+518
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+519
+123
+s 0 b 1
+ans_s 1 ans_b 1
+519
+356
+s 0 b 1
+ans_s 1 ans_b 0
+519
+327
+s 0 b 0
+ans_s 2 ans_b 0
+519
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+521
+123
+s 1 b 1
+ans_s 1 ans_b 1
+521
+356
+s 0 b 1
+ans_s 1 ans_b 0
+521
+327
+s 1 b 0
+ans_s 2 ans_b 0
+521
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+523
+123
+s 2 b 0
+ans_s 1 ans_b 1
+523
+356
+s 0 b 2
+ans_s 1 ans_b 0
+523
+327
+s 1 b 1
+ans_s 2 ans_b 0
+523
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+524
+123
+s 1 b 0
+ans_s 1 ans_b 1
+524
+356
+s 0 b 1
+ans_s 1 ans_b 0
+524
+327
+s 1 b 0
+ans_s 2 ans_b 0
+524
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+526
+123
+s 1 b 0
+ans_s 1 ans_b 1
+526
+356
+s 1 b 1
+ans_s 1 ans_b 0
+526
+327
+s 1 b 0
+ans_s 2 ans_b 0
+526
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+527
+123
+s 1 b 0
+ans_s 1 ans_b 1
+527
+356
+s 0 b 1
+ans_s 1 ans_b 0
+527
+327
+s 2 b 0
+ans_s 2 ans_b 0
+527
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+528
+123
+s 1 b 0
+ans_s 1 ans_b 1
+528
+356
+s 0 b 1
+ans_s 1 ans_b 0
+528
+327
+s 1 b 0
+ans_s 2 ans_b 0
+528
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+529
+123
+s 1 b 0
+ans_s 1 ans_b 1
+529
+356
+s 0 b 1
+ans_s 1 ans_b 0
+529
+327
+s 1 b 0
+ans_s 2 ans_b 0
+529
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+531
+123
+s 0 b 2
+ans_s 1 ans_b 1
+531
+356
+s 0 b 2
+ans_s 1 ans_b 0
+531
+327
+s 0 b 1
+ans_s 2 ans_b 0
+531
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+532
+123
+s 0 b 2
+ans_s 1 ans_b 1
+532
+356
+s 0 b 2
+ans_s 1 ans_b 0
+532
+327
+s 0 b 2
+ans_s 2 ans_b 0
+532
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+534
+123
+s 0 b 1
+ans_s 1 ans_b 1
+534
+356
+s 0 b 2
+ans_s 1 ans_b 0
+534
+327
+s 0 b 1
+ans_s 2 ans_b 0
+534
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+536
+123
+s 0 b 1
+ans_s 1 ans_b 1
+536
+356
+s 1 b 2
+ans_s 1 ans_b 0
+536
+327
+s 0 b 1
+ans_s 2 ans_b 0
+536
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+537
+123
+s 0 b 1
+ans_s 1 ans_b 1
+537
+356
+s 0 b 2
+ans_s 1 ans_b 0
+537
+327
+s 1 b 1
+ans_s 2 ans_b 0
+537
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+538
+123
+s 0 b 1
+ans_s 1 ans_b 1
+538
+356
+s 0 b 2
+ans_s 1 ans_b 0
+538
+327
+s 0 b 1
+ans_s 2 ans_b 0
+538
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+539
+123
+s 0 b 1
+ans_s 1 ans_b 1
+539
+356
+s 0 b 2
+ans_s 1 ans_b 0
+539
+327
+s 0 b 1
+ans_s 2 ans_b 0
+539
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+541
+123
+s 0 b 1
+ans_s 1 ans_b 1
+541
+356
+s 0 b 1
+ans_s 1 ans_b 0
+541
+327
+s 0 b 0
+ans_s 2 ans_b 0
+541
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+542
+123
+s 0 b 1
+ans_s 1 ans_b 1
+542
+356
+s 0 b 1
+ans_s 1 ans_b 0
+542
+327
+s 0 b 1
+ans_s 2 ans_b 0
+542
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+543
+123
+s 1 b 0
+ans_s 1 ans_b 1
+543
+356
+s 0 b 2
+ans_s 1 ans_b 0
+543
+327
+s 0 b 1
+ans_s 2 ans_b 0
+543
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+546
+123
+s 0 b 0
+ans_s 1 ans_b 1
+546
+356
+s 1 b 1
+ans_s 1 ans_b 0
+546
+327
+s 0 b 0
+ans_s 2 ans_b 0
+546
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+547
+123
+s 0 b 0
+ans_s 1 ans_b 1
+547
+356
+s 0 b 1
+ans_s 1 ans_b 0
+547
+327
+s 1 b 0
+ans_s 2 ans_b 0
+547
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+548
+123
+s 0 b 0
+ans_s 1 ans_b 1
+548
+356
+s 0 b 1
+ans_s 1 ans_b 0
+548
+327
+s 0 b 0
+ans_s 2 ans_b 0
+548
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+549
+123
+s 0 b 0
+ans_s 1 ans_b 1
+549
+356
+s 0 b 1
+ans_s 1 ans_b 0
+549
+327
+s 0 b 0
+ans_s 2 ans_b 0
+549
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+561
+123
+s 0 b 1
+ans_s 1 ans_b 1
+561
+356
+s 0 b 2
+ans_s 1 ans_b 0
+561
+327
+s 0 b 0
+ans_s 2 ans_b 0
+561
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+562
+123
+s 0 b 1
+ans_s 1 ans_b 1
+562
+356
+s 0 b 2
+ans_s 1 ans_b 0
+562
+327
+s 0 b 1
+ans_s 2 ans_b 0
+562
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+563
+123
+s 1 b 0
+ans_s 1 ans_b 1
+563
+356
+s 0 b 3
+ans_s 1 ans_b 0
+563
+327
+s 0 b 1
+ans_s 2 ans_b 0
+563
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+564
+123
+s 0 b 0
+ans_s 1 ans_b 1
+564
+356
+s 0 b 2
+ans_s 1 ans_b 0
+564
+327
+s 0 b 0
+ans_s 2 ans_b 0
+564
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+567
+123
+s 0 b 0
+ans_s 1 ans_b 1
+567
+356
+s 0 b 2
+ans_s 1 ans_b 0
+567
+327
+s 1 b 0
+ans_s 2 ans_b 0
+567
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+568
+123
+s 0 b 0
+ans_s 1 ans_b 1
+568
+356
+s 0 b 2
+ans_s 1 ans_b 0
+568
+327
+s 0 b 0
+ans_s 2 ans_b 0
+568
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+569
+123
+s 0 b 0
+ans_s 1 ans_b 1
+569
+356
+s 0 b 2
+ans_s 1 ans_b 0
+569
+327
+s 0 b 0
+ans_s 2 ans_b 0
+569
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+571
+123
+s 0 b 1
+ans_s 1 ans_b 1
+571
+356
+s 0 b 1
+ans_s 1 ans_b 0
+571
+327
+s 0 b 1
+ans_s 2 ans_b 0
+571
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+572
+123
+s 0 b 1
+ans_s 1 ans_b 1
+572
+356
+s 0 b 1
+ans_s 1 ans_b 0
+572
+327
+s 0 b 2
+ans_s 2 ans_b 0
+572
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+573
+123
+s 1 b 0
+ans_s 1 ans_b 1
+573
+356
+s 0 b 2
+ans_s 1 ans_b 0
+573
+327
+s 0 b 2
+ans_s 2 ans_b 0
+573
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+574
+123
+s 0 b 0
+ans_s 1 ans_b 1
+574
+356
+s 0 b 1
+ans_s 1 ans_b 0
+574
+327
+s 0 b 1
+ans_s 2 ans_b 0
+574
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+576
+123
+s 0 b 0
+ans_s 1 ans_b 1
+576
+356
+s 1 b 1
+ans_s 1 ans_b 0
+576
+327
+s 0 b 1
+ans_s 2 ans_b 0
+576
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+578
+123
+s 0 b 0
+ans_s 1 ans_b 1
+578
+356
+s 0 b 1
+ans_s 1 ans_b 0
+578
+327
+s 0 b 1
+ans_s 2 ans_b 0
+578
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+579
+123
+s 0 b 0
+ans_s 1 ans_b 1
+579
+356
+s 0 b 1
+ans_s 1 ans_b 0
+579
+327
+s 0 b 1
+ans_s 2 ans_b 0
+579
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+581
+123
+s 0 b 1
+ans_s 1 ans_b 1
+581
+356
+s 0 b 1
+ans_s 1 ans_b 0
+581
+327
+s 0 b 0
+ans_s 2 ans_b 0
+581
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+582
+123
+s 0 b 1
+ans_s 1 ans_b 1
+582
+356
+s 0 b 1
+ans_s 1 ans_b 0
+582
+327
+s 0 b 1
+ans_s 2 ans_b 0
+582
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+583
+123
+s 1 b 0
+ans_s 1 ans_b 1
+583
+356
+s 0 b 2
+ans_s 1 ans_b 0
+583
+327
+s 0 b 1
+ans_s 2 ans_b 0
+583
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+584
+123
+s 0 b 0
+ans_s 1 ans_b 1
+584
+356
+s 0 b 1
+ans_s 1 ans_b 0
+584
+327
+s 0 b 0
+ans_s 2 ans_b 0
+584
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+586
+123
+s 0 b 0
+ans_s 1 ans_b 1
+586
+356
+s 1 b 1
+ans_s 1 ans_b 0
+586
+327
+s 0 b 0
+ans_s 2 ans_b 0
+586
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+587
+123
+s 0 b 0
+ans_s 1 ans_b 1
+587
+356
+s 0 b 1
+ans_s 1 ans_b 0
+587
+327
+s 1 b 0
+ans_s 2 ans_b 0
+587
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+589
+123
+s 0 b 0
+ans_s 1 ans_b 1
+589
+356
+s 0 b 1
+ans_s 1 ans_b 0
+589
+327
+s 0 b 0
+ans_s 2 ans_b 0
+589
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+591
+123
+s 0 b 1
+ans_s 1 ans_b 1
+591
+356
+s 0 b 1
+ans_s 1 ans_b 0
+591
+327
+s 0 b 0
+ans_s 2 ans_b 0
+591
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+592
+123
+s 0 b 1
+ans_s 1 ans_b 1
+592
+356
+s 0 b 1
+ans_s 1 ans_b 0
+592
+327
+s 0 b 1
+ans_s 2 ans_b 0
+592
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+593
+123
+s 1 b 0
+ans_s 1 ans_b 1
+593
+356
+s 0 b 2
+ans_s 1 ans_b 0
+593
+327
+s 0 b 1
+ans_s 2 ans_b 0
+593
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+594
+123
+s 0 b 0
+ans_s 1 ans_b 1
+594
+356
+s 0 b 1
+ans_s 1 ans_b 0
+594
+327
+s 0 b 0
+ans_s 2 ans_b 0
+594
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+596
+123
+s 0 b 0
+ans_s 1 ans_b 1
+596
+356
+s 1 b 1
+ans_s 1 ans_b 0
+596
+327
+s 0 b 0
+ans_s 2 ans_b 0
+596
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+597
+123
+s 0 b 0
+ans_s 1 ans_b 1
+597
+356
+s 0 b 1
+ans_s 1 ans_b 0
+597
+327
+s 1 b 0
+ans_s 2 ans_b 0
+597
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+598
+123
+s 0 b 0
+ans_s 1 ans_b 1
+598
+356
+s 0 b 1
+ans_s 1 ans_b 0
+598
+327
+s 0 b 0
+ans_s 2 ans_b 0
+598
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+612
+123
+s 0 b 2
+ans_s 1 ans_b 1
+612
+356
+s 0 b 1
+ans_s 1 ans_b 0
+612
+327
+s 0 b 1
+ans_s 2 ans_b 0
+612
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+613
+123
+s 1 b 1
+ans_s 1 ans_b 1
+613
+356
+s 0 b 2
+ans_s 1 ans_b 0
+613
+327
+s 0 b 1
+ans_s 2 ans_b 0
+613
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+614
+123
+s 0 b 1
+ans_s 1 ans_b 1
+614
+356
+s 0 b 1
+ans_s 1 ans_b 0
+614
+327
+s 0 b 0
+ans_s 2 ans_b 0
+614
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+615
+123
+s 0 b 1
+ans_s 1 ans_b 1
+615
+356
+s 0 b 2
+ans_s 1 ans_b 0
+615
+327
+s 0 b 0
+ans_s 2 ans_b 0
+615
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+617
+123
+s 0 b 1
+ans_s 1 ans_b 1
+617
+356
+s 0 b 1
+ans_s 1 ans_b 0
+617
+327
+s 1 b 0
+ans_s 2 ans_b 0
+617
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+618
+123
+s 0 b 1
+ans_s 1 ans_b 1
+618
+356
+s 0 b 1
+ans_s 1 ans_b 0
+618
+327
+s 0 b 0
+ans_s 2 ans_b 0
+618
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+619
+123
+s 0 b 1
+ans_s 1 ans_b 1
+619
+356
+s 0 b 1
+ans_s 1 ans_b 0
+619
+327
+s 0 b 0
+ans_s 2 ans_b 0
+619
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+621
+123
+s 1 b 1
+ans_s 1 ans_b 1
+621
+356
+s 0 b 1
+ans_s 1 ans_b 0
+621
+327
+s 1 b 0
+ans_s 2 ans_b 0
+621
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+623
+123
+s 2 b 0
+ans_s 1 ans_b 1
+623
+356
+s 0 b 2
+ans_s 1 ans_b 0
+623
+327
+s 1 b 1
+ans_s 2 ans_b 0
+623
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+624
+123
+s 1 b 0
+ans_s 1 ans_b 1
+624
+356
+s 0 b 1
+ans_s 1 ans_b 0
+624
+327
+s 1 b 0
+ans_s 2 ans_b 0
+624
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+625
+123
+s 1 b 0
+ans_s 1 ans_b 1
+625
+356
+s 0 b 2
+ans_s 1 ans_b 0
+625
+327
+s 1 b 0
+ans_s 2 ans_b 0
+625
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+627
+123
+s 1 b 0
+ans_s 1 ans_b 1
+627
+356
+s 0 b 1
+ans_s 1 ans_b 0
+627
+327
+s 2 b 0
+ans_s 2 ans_b 0
+627
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+628
+123
+s 1 b 0
+ans_s 1 ans_b 1
+628
+356
+s 0 b 1
+ans_s 1 ans_b 0
+628
+327
+s 1 b 0
+ans_s 2 ans_b 0
+628
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+629
+123
+s 1 b 0
+ans_s 1 ans_b 1
+629
+356
+s 0 b 1
+ans_s 1 ans_b 0
+629
+327
+s 1 b 0
+ans_s 2 ans_b 0
+629
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+631
+123
+s 0 b 2
+ans_s 1 ans_b 1
+631
+356
+s 0 b 2
+ans_s 1 ans_b 0
+631
+327
+s 0 b 1
+ans_s 2 ans_b 0
+631
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+632
+123
+s 0 b 2
+ans_s 1 ans_b 1
+632
+356
+s 0 b 2
+ans_s 1 ans_b 0
+632
+327
+s 0 b 2
+ans_s 2 ans_b 0
+632
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+634
+123
+s 0 b 1
+ans_s 1 ans_b 1
+634
+356
+s 0 b 2
+ans_s 1 ans_b 0
+634
+327
+s 0 b 1
+ans_s 2 ans_b 0
+634
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+635
+123
+s 0 b 1
+ans_s 1 ans_b 1
+635
+356
+s 0 b 3
+ans_s 1 ans_b 0
+635
+327
+s 0 b 1
+ans_s 2 ans_b 0
+635
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+637
+123
+s 0 b 1
+ans_s 1 ans_b 1
+637
+356
+s 0 b 2
+ans_s 1 ans_b 0
+637
+327
+s 1 b 1
+ans_s 2 ans_b 0
+637
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+638
+123
+s 0 b 1
+ans_s 1 ans_b 1
+638
+356
+s 0 b 2
+ans_s 1 ans_b 0
+638
+327
+s 0 b 1
+ans_s 2 ans_b 0
+638
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+639
+123
+s 0 b 1
+ans_s 1 ans_b 1
+639
+356
+s 0 b 2
+ans_s 1 ans_b 0
+639
+327
+s 0 b 1
+ans_s 2 ans_b 0
+639
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+641
+123
+s 0 b 1
+ans_s 1 ans_b 1
+641
+356
+s 0 b 1
+ans_s 1 ans_b 0
+641
+327
+s 0 b 0
+ans_s 2 ans_b 0
+641
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+642
+123
+s 0 b 1
+ans_s 1 ans_b 1
+642
+356
+s 0 b 1
+ans_s 1 ans_b 0
+642
+327
+s 0 b 1
+ans_s 2 ans_b 0
+642
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+643
+123
+s 1 b 0
+ans_s 1 ans_b 1
+643
+356
+s 0 b 2
+ans_s 1 ans_b 0
+643
+327
+s 0 b 1
+ans_s 2 ans_b 0
+643
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+645
+123
+s 0 b 0
+ans_s 1 ans_b 1
+645
+356
+s 0 b 2
+ans_s 1 ans_b 0
+645
+327
+s 0 b 0
+ans_s 2 ans_b 0
+645
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+647
+123
+s 0 b 0
+ans_s 1 ans_b 1
+647
+356
+s 0 b 1
+ans_s 1 ans_b 0
+647
+327
+s 1 b 0
+ans_s 2 ans_b 0
+647
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+648
+123
+s 0 b 0
+ans_s 1 ans_b 1
+648
+356
+s 0 b 1
+ans_s 1 ans_b 0
+648
+327
+s 0 b 0
+ans_s 2 ans_b 0
+648
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+649
+123
+s 0 b 0
+ans_s 1 ans_b 1
+649
+356
+s 0 b 1
+ans_s 1 ans_b 0
+649
+327
+s 0 b 0
+ans_s 2 ans_b 0
+649
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+651
+123
+s 0 b 1
+ans_s 1 ans_b 1
+651
+356
+s 1 b 1
+ans_s 1 ans_b 0
+651
+327
+s 0 b 0
+ans_s 2 ans_b 0
+651
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+652
+123
+s 0 b 1
+ans_s 1 ans_b 1
+652
+356
+s 1 b 1
+ans_s 1 ans_b 0
+652
+327
+s 0 b 1
+ans_s 2 ans_b 0
+652
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+653
+123
+s 1 b 0
+ans_s 1 ans_b 1
+653
+356
+s 1 b 2
+ans_s 1 ans_b 0
+653
+327
+s 0 b 1
+ans_s 2 ans_b 0
+653
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+654
+123
+s 0 b 0
+ans_s 1 ans_b 1
+654
+356
+s 1 b 1
+ans_s 1 ans_b 0
+654
+327
+s 0 b 0
+ans_s 2 ans_b 0
+654
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+657
+123
+s 0 b 0
+ans_s 1 ans_b 1
+657
+356
+s 1 b 1
+ans_s 1 ans_b 0
+657
+327
+s 1 b 0
+ans_s 2 ans_b 0
+657
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+658
+123
+s 0 b 0
+ans_s 1 ans_b 1
+658
+356
+s 1 b 1
+ans_s 1 ans_b 0
+658
+327
+s 0 b 0
+ans_s 2 ans_b 0
+658
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+659
+123
+s 0 b 0
+ans_s 1 ans_b 1
+659
+356
+s 1 b 1
+ans_s 1 ans_b 0
+659
+327
+s 0 b 0
+ans_s 2 ans_b 0
+659
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+671
+123
+s 0 b 1
+ans_s 1 ans_b 1
+671
+356
+s 0 b 1
+ans_s 1 ans_b 0
+671
+327
+s 0 b 1
+ans_s 2 ans_b 0
+671
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+672
+123
+s 0 b 1
+ans_s 1 ans_b 1
+672
+356
+s 0 b 1
+ans_s 1 ans_b 0
+672
+327
+s 0 b 2
+ans_s 2 ans_b 0
+672
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+673
+123
+s 1 b 0
+ans_s 1 ans_b 1
+673
+356
+s 0 b 2
+ans_s 1 ans_b 0
+673
+327
+s 0 b 2
+ans_s 2 ans_b 0
+673
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+674
+123
+s 0 b 0
+ans_s 1 ans_b 1
+674
+356
+s 0 b 1
+ans_s 1 ans_b 0
+674
+327
+s 0 b 1
+ans_s 2 ans_b 0
+674
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+675
+123
+s 0 b 0
+ans_s 1 ans_b 1
+675
+356
+s 0 b 2
+ans_s 1 ans_b 0
+675
+327
+s 0 b 1
+ans_s 2 ans_b 0
+675
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+678
+123
+s 0 b 0
+ans_s 1 ans_b 1
+678
+356
+s 0 b 1
+ans_s 1 ans_b 0
+678
+327
+s 0 b 1
+ans_s 2 ans_b 0
+678
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+679
+123
+s 0 b 0
+ans_s 1 ans_b 1
+679
+356
+s 0 b 1
+ans_s 1 ans_b 0
+679
+327
+s 0 b 1
+ans_s 2 ans_b 0
+679
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+681
+123
+s 0 b 1
+ans_s 1 ans_b 1
+681
+356
+s 0 b 1
+ans_s 1 ans_b 0
+681
+327
+s 0 b 0
+ans_s 2 ans_b 0
+681
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+682
+123
+s 0 b 1
+ans_s 1 ans_b 1
+682
+356
+s 0 b 1
+ans_s 1 ans_b 0
+682
+327
+s 0 b 1
+ans_s 2 ans_b 0
+682
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+683
+123
+s 1 b 0
+ans_s 1 ans_b 1
+683
+356
+s 0 b 2
+ans_s 1 ans_b 0
+683
+327
+s 0 b 1
+ans_s 2 ans_b 0
+683
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+684
+123
+s 0 b 0
+ans_s 1 ans_b 1
+684
+356
+s 0 b 1
+ans_s 1 ans_b 0
+684
+327
+s 0 b 0
+ans_s 2 ans_b 0
+684
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+685
+123
+s 0 b 0
+ans_s 1 ans_b 1
+685
+356
+s 0 b 2
+ans_s 1 ans_b 0
+685
+327
+s 0 b 0
+ans_s 2 ans_b 0
+685
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+687
+123
+s 0 b 0
+ans_s 1 ans_b 1
+687
+356
+s 0 b 1
+ans_s 1 ans_b 0
+687
+327
+s 1 b 0
+ans_s 2 ans_b 0
+687
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+689
+123
+s 0 b 0
+ans_s 1 ans_b 1
+689
+356
+s 0 b 1
+ans_s 1 ans_b 0
+689
+327
+s 0 b 0
+ans_s 2 ans_b 0
+689
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+691
+123
+s 0 b 1
+ans_s 1 ans_b 1
+691
+356
+s 0 b 1
+ans_s 1 ans_b 0
+691
+327
+s 0 b 0
+ans_s 2 ans_b 0
+691
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+692
+123
+s 0 b 1
+ans_s 1 ans_b 1
+692
+356
+s 0 b 1
+ans_s 1 ans_b 0
+692
+327
+s 0 b 1
+ans_s 2 ans_b 0
+692
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+693
+123
+s 1 b 0
+ans_s 1 ans_b 1
+693
+356
+s 0 b 2
+ans_s 1 ans_b 0
+693
+327
+s 0 b 1
+ans_s 2 ans_b 0
+693
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+694
+123
+s 0 b 0
+ans_s 1 ans_b 1
+694
+356
+s 0 b 1
+ans_s 1 ans_b 0
+694
+327
+s 0 b 0
+ans_s 2 ans_b 0
+694
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+695
+123
+s 0 b 0
+ans_s 1 ans_b 1
+695
+356
+s 0 b 2
+ans_s 1 ans_b 0
+695
+327
+s 0 b 0
+ans_s 2 ans_b 0
+695
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+697
+123
+s 0 b 0
+ans_s 1 ans_b 1
+697
+356
+s 0 b 1
+ans_s 1 ans_b 0
+697
+327
+s 1 b 0
+ans_s 2 ans_b 0
+697
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+698
+123
+s 0 b 0
+ans_s 1 ans_b 1
+698
+356
+s 0 b 1
+ans_s 1 ans_b 0
+698
+327
+s 0 b 0
+ans_s 2 ans_b 0
+698
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+712
+123
+s 0 b 2
+ans_s 1 ans_b 1
+712
+356
+s 0 b 0
+ans_s 1 ans_b 0
+712
+327
+s 0 b 2
+ans_s 2 ans_b 0
+712
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+713
+123
+s 1 b 1
+ans_s 1 ans_b 1
+713
+356
+s 0 b 1
+ans_s 1 ans_b 0
+713
+327
+s 0 b 2
+ans_s 2 ans_b 0
+713
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+714
+123
+s 0 b 1
+ans_s 1 ans_b 1
+714
+356
+s 0 b 0
+ans_s 1 ans_b 0
+714
+327
+s 0 b 1
+ans_s 2 ans_b 0
+714
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+715
+123
+s 0 b 1
+ans_s 1 ans_b 1
+715
+356
+s 0 b 1
+ans_s 1 ans_b 0
+715
+327
+s 0 b 1
+ans_s 2 ans_b 0
+715
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+716
+123
+s 0 b 1
+ans_s 1 ans_b 1
+716
+356
+s 1 b 0
+ans_s 1 ans_b 0
+716
+327
+s 0 b 1
+ans_s 2 ans_b 0
+716
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+718
+123
+s 0 b 1
+ans_s 1 ans_b 1
+718
+356
+s 0 b 0
+ans_s 1 ans_b 0
+718
+327
+s 0 b 1
+ans_s 2 ans_b 0
+718
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+719
+123
+s 0 b 1
+ans_s 1 ans_b 1
+719
+356
+s 0 b 0
+ans_s 1 ans_b 0
+719
+327
+s 0 b 1
+ans_s 2 ans_b 0
+719
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+721
+123
+s 1 b 1
+ans_s 1 ans_b 1
+721
+356
+s 0 b 0
+ans_s 1 ans_b 0
+721
+327
+s 1 b 1
+ans_s 2 ans_b 0
+721
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+723
+123
+s 2 b 0
+ans_s 1 ans_b 1
+723
+356
+s 0 b 1
+ans_s 1 ans_b 0
+723
+327
+s 1 b 2
+ans_s 2 ans_b 0
+723
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+724
+123
+s 1 b 0
+ans_s 1 ans_b 1
+724
+356
+s 0 b 0
+ans_s 1 ans_b 0
+724
+327
+s 1 b 1
+ans_s 2 ans_b 0
+724
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+725
+123
+s 1 b 0
+ans_s 1 ans_b 1
+725
+356
+s 0 b 1
+ans_s 1 ans_b 0
+725
+327
+s 1 b 1
+ans_s 2 ans_b 0
+725
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+726
+123
+s 1 b 0
+ans_s 1 ans_b 1
+726
+356
+s 1 b 0
+ans_s 1 ans_b 0
+726
+327
+s 1 b 1
+ans_s 2 ans_b 0
+726
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+728
+123
+s 1 b 0
+ans_s 1 ans_b 1
+728
+356
+s 0 b 0
+ans_s 1 ans_b 0
+728
+327
+s 1 b 1
+ans_s 2 ans_b 0
+728
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+729
+123
+s 1 b 0
+ans_s 1 ans_b 1
+729
+356
+s 0 b 0
+ans_s 1 ans_b 0
+729
+327
+s 1 b 1
+ans_s 2 ans_b 0
+729
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+731
+123
+s 0 b 2
+ans_s 1 ans_b 1
+731
+356
+s 0 b 1
+ans_s 1 ans_b 0
+731
+327
+s 0 b 2
+ans_s 2 ans_b 0
+731
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+732
+123
+s 0 b 2
+ans_s 1 ans_b 1
+732
+356
+s 0 b 1
+ans_s 1 ans_b 0
+732
+327
+s 0 b 3
+ans_s 2 ans_b 0
+732
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+734
+123
+s 0 b 1
+ans_s 1 ans_b 1
+734
+356
+s 0 b 1
+ans_s 1 ans_b 0
+734
+327
+s 0 b 2
+ans_s 2 ans_b 0
+734
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+735
+123
+s 0 b 1
+ans_s 1 ans_b 1
+735
+356
+s 0 b 2
+ans_s 1 ans_b 0
+735
+327
+s 0 b 2
+ans_s 2 ans_b 0
+735
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+736
+123
+s 0 b 1
+ans_s 1 ans_b 1
+736
+356
+s 1 b 1
+ans_s 1 ans_b 0
+736
+327
+s 0 b 2
+ans_s 2 ans_b 0
+736
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+738
+123
+s 0 b 1
+ans_s 1 ans_b 1
+738
+356
+s 0 b 1
+ans_s 1 ans_b 0
+738
+327
+s 0 b 2
+ans_s 2 ans_b 0
+738
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+739
+123
+s 0 b 1
+ans_s 1 ans_b 1
+739
+356
+s 0 b 1
+ans_s 1 ans_b 0
+739
+327
+s 0 b 2
+ans_s 2 ans_b 0
+739
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+741
+123
+s 0 b 1
+ans_s 1 ans_b 1
+741
+356
+s 0 b 0
+ans_s 1 ans_b 0
+741
+327
+s 0 b 1
+ans_s 2 ans_b 0
+741
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+742
+123
+s 0 b 1
+ans_s 1 ans_b 1
+742
+356
+s 0 b 0
+ans_s 1 ans_b 0
+742
+327
+s 0 b 2
+ans_s 2 ans_b 0
+742
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+743
+123
+s 1 b 0
+ans_s 1 ans_b 1
+743
+356
+s 0 b 1
+ans_s 1 ans_b 0
+743
+327
+s 0 b 2
+ans_s 2 ans_b 0
+743
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+745
+123
+s 0 b 0
+ans_s 1 ans_b 1
+745
+356
+s 0 b 1
+ans_s 1 ans_b 0
+745
+327
+s 0 b 1
+ans_s 2 ans_b 0
+745
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+746
+123
+s 0 b 0
+ans_s 1 ans_b 1
+746
+356
+s 1 b 0
+ans_s 1 ans_b 0
+746
+327
+s 0 b 1
+ans_s 2 ans_b 0
+746
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+748
+123
+s 0 b 0
+ans_s 1 ans_b 1
+748
+356
+s 0 b 0
+ans_s 1 ans_b 0
+748
+327
+s 0 b 1
+ans_s 2 ans_b 0
+748
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+749
+123
+s 0 b 0
+ans_s 1 ans_b 1
+749
+356
+s 0 b 0
+ans_s 1 ans_b 0
+749
+327
+s 0 b 1
+ans_s 2 ans_b 0
+749
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+751
+123
+s 0 b 1
+ans_s 1 ans_b 1
+751
+356
+s 1 b 0
+ans_s 1 ans_b 0
+751
+327
+s 0 b 1
+ans_s 2 ans_b 0
+751
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+752
+123
+s 0 b 1
+ans_s 1 ans_b 1
+752
+356
+s 1 b 0
+ans_s 1 ans_b 0
+752
+327
+s 0 b 2
+ans_s 2 ans_b 0
+752
+489
+s 0 b 0
+ans_s 0 ans_b 1
+1
+753
+123
+s 1 b 0
+ans_s 1 ans_b 1
+753
+356
+s 1 b 1
+ans_s 1 ans_b 0
+753
+327
+s 0 b 2
+ans_s 2 ans_b 0
+753
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+754
+123
+s 0 b 0
+ans_s 1 ans_b 1
+754
+356
+s 1 b 0
+ans_s 1 ans_b 0
+754
+327
+s 0 b 1
+ans_s 2 ans_b 0
+754
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+756
+123
+s 0 b 0
+ans_s 1 ans_b 1
+756
+356
+s 2 b 0
+ans_s 1 ans_b 0
+756
+327
+s 0 b 1
+ans_s 2 ans_b 0
+756
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+758
+123
+s 0 b 0
+ans_s 1 ans_b 1
+758
+356
+s 1 b 0
+ans_s 1 ans_b 0
+758
+327
+s 0 b 1
+ans_s 2 ans_b 0
+758
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+759
+123
+s 0 b 0
+ans_s 1 ans_b 1
+759
+356
+s 1 b 0
+ans_s 1 ans_b 0
+759
+327
+s 0 b 1
+ans_s 2 ans_b 0
+759
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+761
+123
+s 0 b 1
+ans_s 1 ans_b 1
+761
+356
+s 0 b 1
+ans_s 1 ans_b 0
+761
+327
+s 0 b 1
+ans_s 2 ans_b 0
+761
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+762
+123
+s 0 b 1
+ans_s 1 ans_b 1
+762
+356
+s 0 b 1
+ans_s 1 ans_b 0
+762
+327
+s 0 b 2
+ans_s 2 ans_b 0
+762
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+763
+123
+s 1 b 0
+ans_s 1 ans_b 1
+763
+356
+s 0 b 2
+ans_s 1 ans_b 0
+763
+327
+s 0 b 2
+ans_s 2 ans_b 0
+763
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+764
+123
+s 0 b 0
+ans_s 1 ans_b 1
+764
+356
+s 0 b 1
+ans_s 1 ans_b 0
+764
+327
+s 0 b 1
+ans_s 2 ans_b 0
+764
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+765
+123
+s 0 b 0
+ans_s 1 ans_b 1
+765
+356
+s 0 b 2
+ans_s 1 ans_b 0
+765
+327
+s 0 b 1
+ans_s 2 ans_b 0
+765
+489
+s 0 b 0
+ans_s 0 ans_b 1
+0
+768
+123
+s 0 b 0
+ans_s 1 ans_b 1
+768
+356
+s 0 b 1
+ans_s 1 ans_b 0
+768
+327
+s 0 b 1
+ans_s 2 ans_b 0
+768
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+769
+123
+s 0 b 0
+ans_s 1 ans_b 1
+769
+356
+s 0 b 1
+ans_s 1 ans_b 0
+769
+327
+s 0 b 1
+ans_s 2 ans_b 0
+769
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+781
+123
+s 0 b 1
+ans_s 1 ans_b 1
+781
+356
+s 0 b 0
+ans_s 1 ans_b 0
+781
+327
+s 0 b 1
+ans_s 2 ans_b 0
+781
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+782
+123
+s 0 b 1
+ans_s 1 ans_b 1
+782
+356
+s 0 b 0
+ans_s 1 ans_b 0
+782
+327
+s 0 b 2
+ans_s 2 ans_b 0
+782
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+783
+123
+s 1 b 0
+ans_s 1 ans_b 1
+783
+356
+s 0 b 1
+ans_s 1 ans_b 0
+783
+327
+s 0 b 2
+ans_s 2 ans_b 0
+783
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+784
+123
+s 0 b 0
+ans_s 1 ans_b 1
+784
+356
+s 0 b 0
+ans_s 1 ans_b 0
+784
+327
+s 0 b 1
+ans_s 2 ans_b 0
+784
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+785
+123
+s 0 b 0
+ans_s 1 ans_b 1
+785
+356
+s 0 b 1
+ans_s 1 ans_b 0
+785
+327
+s 0 b 1
+ans_s 2 ans_b 0
+785
+489
+s 1 b 0
+ans_s 0 ans_b 1
+0
+786
+123
+s 0 b 0
+ans_s 1 ans_b 1
+786
+356
+s 1 b 0
+ans_s 1 ans_b 0
+786
+327
+s 0 b 1
+ans_s 2 ans_b 0
+786
+489
+s 1 b 0
+ans_s 0 ans_b 1
+1
+789
+123
+s 0 b 0
+ans_s 1 ans_b 1
+789
+356
+s 0 b 0
+ans_s 1 ans_b 0
+789
+327
+s 0 b 1
+ans_s 2 ans_b 0
+789
+489
+s 2 b 0
+ans_s 0 ans_b 1
+0
+791
+123
+s 0 b 1
+ans_s 1 ans_b 1
+791
+356
+s 0 b 0
+ans_s 1 ans_b 0
+791
+327
+s 0 b 1
+ans_s 2 ans_b 0
+791
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+792
+123
+s 0 b 1
+ans_s 1 ans_b 1
+792
+356
+s 0 b 0
+ans_s 1 ans_b 0
+792
+327
+s 0 b 2
+ans_s 2 ans_b 0
+792
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+793
+123
+s 1 b 0
+ans_s 1 ans_b 1
+793
+356
+s 0 b 1
+ans_s 1 ans_b 0
+793
+327
+s 0 b 2
+ans_s 2 ans_b 0
+793
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+794
+123
+s 0 b 0
+ans_s 1 ans_b 1
+794
+356
+s 0 b 0
+ans_s 1 ans_b 0
+794
+327
+s 0 b 1
+ans_s 2 ans_b 0
+794
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+795
+123
+s 0 b 0
+ans_s 1 ans_b 1
+795
+356
+s 0 b 1
+ans_s 1 ans_b 0
+795
+327
+s 0 b 1
+ans_s 2 ans_b 0
+795
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+796
+123
+s 0 b 0
+ans_s 1 ans_b 1
+796
+356
+s 1 b 0
+ans_s 1 ans_b 0
+796
+327
+s 0 b 1
+ans_s 2 ans_b 0
+796
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+798
+123
+s 0 b 0
+ans_s 1 ans_b 1
+798
+356
+s 0 b 0
+ans_s 1 ans_b 0
+798
+327
+s 0 b 1
+ans_s 2 ans_b 0
+798
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+812
+123
+s 0 b 2
+ans_s 1 ans_b 1
+812
+356
+s 0 b 0
+ans_s 1 ans_b 0
+812
+327
+s 0 b 1
+ans_s 2 ans_b 0
+812
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+813
+123
+s 1 b 1
+ans_s 1 ans_b 1
+813
+356
+s 0 b 1
+ans_s 1 ans_b 0
+813
+327
+s 0 b 1
+ans_s 2 ans_b 0
+813
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+814
+123
+s 0 b 1
+ans_s 1 ans_b 1
+814
+356
+s 0 b 0
+ans_s 1 ans_b 0
+814
+327
+s 0 b 0
+ans_s 2 ans_b 0
+814
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+815
+123
+s 0 b 1
+ans_s 1 ans_b 1
+815
+356
+s 0 b 1
+ans_s 1 ans_b 0
+815
+327
+s 0 b 0
+ans_s 2 ans_b 0
+815
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+816
+123
+s 0 b 1
+ans_s 1 ans_b 1
+816
+356
+s 1 b 0
+ans_s 1 ans_b 0
+816
+327
+s 0 b 0
+ans_s 2 ans_b 0
+816
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+817
+123
+s 0 b 1
+ans_s 1 ans_b 1
+817
+356
+s 0 b 0
+ans_s 1 ans_b 0
+817
+327
+s 1 b 0
+ans_s 2 ans_b 0
+817
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+819
+123
+s 0 b 1
+ans_s 1 ans_b 1
+819
+356
+s 0 b 0
+ans_s 1 ans_b 0
+819
+327
+s 0 b 0
+ans_s 2 ans_b 0
+819
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+821
+123
+s 1 b 1
+ans_s 1 ans_b 1
+821
+356
+s 0 b 0
+ans_s 1 ans_b 0
+821
+327
+s 1 b 0
+ans_s 2 ans_b 0
+821
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+823
+123
+s 2 b 0
+ans_s 1 ans_b 1
+823
+356
+s 0 b 1
+ans_s 1 ans_b 0
+823
+327
+s 1 b 1
+ans_s 2 ans_b 0
+823
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+824
+123
+s 1 b 0
+ans_s 1 ans_b 1
+824
+356
+s 0 b 0
+ans_s 1 ans_b 0
+824
+327
+s 1 b 0
+ans_s 2 ans_b 0
+824
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+825
+123
+s 1 b 0
+ans_s 1 ans_b 1
+825
+356
+s 0 b 1
+ans_s 1 ans_b 0
+825
+327
+s 1 b 0
+ans_s 2 ans_b 0
+825
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+826
+123
+s 1 b 0
+ans_s 1 ans_b 1
+826
+356
+s 1 b 0
+ans_s 1 ans_b 0
+826
+327
+s 1 b 0
+ans_s 2 ans_b 0
+826
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+827
+123
+s 1 b 0
+ans_s 1 ans_b 1
+827
+356
+s 0 b 0
+ans_s 1 ans_b 0
+827
+327
+s 2 b 0
+ans_s 2 ans_b 0
+827
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+829
+123
+s 1 b 0
+ans_s 1 ans_b 1
+829
+356
+s 0 b 0
+ans_s 1 ans_b 0
+829
+327
+s 1 b 0
+ans_s 2 ans_b 0
+829
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+831
+123
+s 0 b 2
+ans_s 1 ans_b 1
+831
+356
+s 0 b 1
+ans_s 1 ans_b 0
+831
+327
+s 0 b 1
+ans_s 2 ans_b 0
+831
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+832
+123
+s 0 b 2
+ans_s 1 ans_b 1
+832
+356
+s 0 b 1
+ans_s 1 ans_b 0
+832
+327
+s 0 b 2
+ans_s 2 ans_b 0
+832
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+834
+123
+s 0 b 1
+ans_s 1 ans_b 1
+834
+356
+s 0 b 1
+ans_s 1 ans_b 0
+834
+327
+s 0 b 1
+ans_s 2 ans_b 0
+834
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+835
+123
+s 0 b 1
+ans_s 1 ans_b 1
+835
+356
+s 0 b 2
+ans_s 1 ans_b 0
+835
+327
+s 0 b 1
+ans_s 2 ans_b 0
+835
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+836
+123
+s 0 b 1
+ans_s 1 ans_b 1
+836
+356
+s 1 b 1
+ans_s 1 ans_b 0
+836
+327
+s 0 b 1
+ans_s 2 ans_b 0
+836
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+837
+123
+s 0 b 1
+ans_s 1 ans_b 1
+837
+356
+s 0 b 1
+ans_s 1 ans_b 0
+837
+327
+s 1 b 1
+ans_s 2 ans_b 0
+837
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+839
+123
+s 0 b 1
+ans_s 1 ans_b 1
+839
+356
+s 0 b 1
+ans_s 1 ans_b 0
+839
+327
+s 0 b 1
+ans_s 2 ans_b 0
+839
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+841
+123
+s 0 b 1
+ans_s 1 ans_b 1
+841
+356
+s 0 b 0
+ans_s 1 ans_b 0
+841
+327
+s 0 b 0
+ans_s 2 ans_b 0
+841
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+842
+123
+s 0 b 1
+ans_s 1 ans_b 1
+842
+356
+s 0 b 0
+ans_s 1 ans_b 0
+842
+327
+s 0 b 1
+ans_s 2 ans_b 0
+842
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+843
+123
+s 1 b 0
+ans_s 1 ans_b 1
+843
+356
+s 0 b 1
+ans_s 1 ans_b 0
+843
+327
+s 0 b 1
+ans_s 2 ans_b 0
+843
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+845
+123
+s 0 b 0
+ans_s 1 ans_b 1
+845
+356
+s 0 b 1
+ans_s 1 ans_b 0
+845
+327
+s 0 b 0
+ans_s 2 ans_b 0
+845
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+846
+123
+s 0 b 0
+ans_s 1 ans_b 1
+846
+356
+s 1 b 0
+ans_s 1 ans_b 0
+846
+327
+s 0 b 0
+ans_s 2 ans_b 0
+846
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+847
+123
+s 0 b 0
+ans_s 1 ans_b 1
+847
+356
+s 0 b 0
+ans_s 1 ans_b 0
+847
+327
+s 1 b 0
+ans_s 2 ans_b 0
+847
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+849
+123
+s 0 b 0
+ans_s 1 ans_b 1
+849
+356
+s 0 b 0
+ans_s 1 ans_b 0
+849
+327
+s 0 b 0
+ans_s 2 ans_b 0
+849
+489
+s 1 b 2
+ans_s 0 ans_b 1
+0
+851
+123
+s 0 b 1
+ans_s 1 ans_b 1
+851
+356
+s 1 b 0
+ans_s 1 ans_b 0
+851
+327
+s 0 b 0
+ans_s 2 ans_b 0
+851
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+852
+123
+s 0 b 1
+ans_s 1 ans_b 1
+852
+356
+s 1 b 0
+ans_s 1 ans_b 0
+852
+327
+s 0 b 1
+ans_s 2 ans_b 0
+852
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+853
+123
+s 1 b 0
+ans_s 1 ans_b 1
+853
+356
+s 1 b 1
+ans_s 1 ans_b 0
+853
+327
+s 0 b 1
+ans_s 2 ans_b 0
+853
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+854
+123
+s 0 b 0
+ans_s 1 ans_b 1
+854
+356
+s 1 b 0
+ans_s 1 ans_b 0
+854
+327
+s 0 b 0
+ans_s 2 ans_b 0
+854
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+856
+123
+s 0 b 0
+ans_s 1 ans_b 1
+856
+356
+s 2 b 0
+ans_s 1 ans_b 0
+856
+327
+s 0 b 0
+ans_s 2 ans_b 0
+856
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+857
+123
+s 0 b 0
+ans_s 1 ans_b 1
+857
+356
+s 1 b 0
+ans_s 1 ans_b 0
+857
+327
+s 1 b 0
+ans_s 2 ans_b 0
+857
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+859
+123
+s 0 b 0
+ans_s 1 ans_b 1
+859
+356
+s 1 b 0
+ans_s 1 ans_b 0
+859
+327
+s 0 b 0
+ans_s 2 ans_b 0
+859
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+861
+123
+s 0 b 1
+ans_s 1 ans_b 1
+861
+356
+s 0 b 1
+ans_s 1 ans_b 0
+861
+327
+s 0 b 0
+ans_s 2 ans_b 0
+861
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+862
+123
+s 0 b 1
+ans_s 1 ans_b 1
+862
+356
+s 0 b 1
+ans_s 1 ans_b 0
+862
+327
+s 0 b 1
+ans_s 2 ans_b 0
+862
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+863
+123
+s 1 b 0
+ans_s 1 ans_b 1
+863
+356
+s 0 b 2
+ans_s 1 ans_b 0
+863
+327
+s 0 b 1
+ans_s 2 ans_b 0
+863
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+864
+123
+s 0 b 0
+ans_s 1 ans_b 1
+864
+356
+s 0 b 1
+ans_s 1 ans_b 0
+864
+327
+s 0 b 0
+ans_s 2 ans_b 0
+864
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+865
+123
+s 0 b 0
+ans_s 1 ans_b 1
+865
+356
+s 0 b 2
+ans_s 1 ans_b 0
+865
+327
+s 0 b 0
+ans_s 2 ans_b 0
+865
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+867
+123
+s 0 b 0
+ans_s 1 ans_b 1
+867
+356
+s 0 b 1
+ans_s 1 ans_b 0
+867
+327
+s 1 b 0
+ans_s 2 ans_b 0
+867
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+869
+123
+s 0 b 0
+ans_s 1 ans_b 1
+869
+356
+s 0 b 1
+ans_s 1 ans_b 0
+869
+327
+s 0 b 0
+ans_s 2 ans_b 0
+869
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+871
+123
+s 0 b 1
+ans_s 1 ans_b 1
+871
+356
+s 0 b 0
+ans_s 1 ans_b 0
+871
+327
+s 0 b 1
+ans_s 2 ans_b 0
+871
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+872
+123
+s 0 b 1
+ans_s 1 ans_b 1
+872
+356
+s 0 b 0
+ans_s 1 ans_b 0
+872
+327
+s 0 b 2
+ans_s 2 ans_b 0
+872
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+873
+123
+s 1 b 0
+ans_s 1 ans_b 1
+873
+356
+s 0 b 1
+ans_s 1 ans_b 0
+873
+327
+s 0 b 2
+ans_s 2 ans_b 0
+873
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+874
+123
+s 0 b 0
+ans_s 1 ans_b 1
+874
+356
+s 0 b 0
+ans_s 1 ans_b 0
+874
+327
+s 0 b 1
+ans_s 2 ans_b 0
+874
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+875
+123
+s 0 b 0
+ans_s 1 ans_b 1
+875
+356
+s 0 b 1
+ans_s 1 ans_b 0
+875
+327
+s 0 b 1
+ans_s 2 ans_b 0
+875
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+876
+123
+s 0 b 0
+ans_s 1 ans_b 1
+876
+356
+s 1 b 0
+ans_s 1 ans_b 0
+876
+327
+s 0 b 1
+ans_s 2 ans_b 0
+876
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+879
+123
+s 0 b 0
+ans_s 1 ans_b 1
+879
+356
+s 0 b 0
+ans_s 1 ans_b 0
+879
+327
+s 0 b 1
+ans_s 2 ans_b 0
+879
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+891
+123
+s 0 b 1
+ans_s 1 ans_b 1
+891
+356
+s 0 b 0
+ans_s 1 ans_b 0
+891
+327
+s 0 b 0
+ans_s 2 ans_b 0
+891
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+892
+123
+s 0 b 1
+ans_s 1 ans_b 1
+892
+356
+s 0 b 0
+ans_s 1 ans_b 0
+892
+327
+s 0 b 1
+ans_s 2 ans_b 0
+892
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+893
+123
+s 1 b 0
+ans_s 1 ans_b 1
+893
+356
+s 0 b 1
+ans_s 1 ans_b 0
+893
+327
+s 0 b 1
+ans_s 2 ans_b 0
+893
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+894
+123
+s 0 b 0
+ans_s 1 ans_b 1
+894
+356
+s 0 b 0
+ans_s 1 ans_b 0
+894
+327
+s 0 b 0
+ans_s 2 ans_b 0
+894
+489
+s 0 b 3
+ans_s 0 ans_b 1
+0
+895
+123
+s 0 b 0
+ans_s 1 ans_b 1
+895
+356
+s 0 b 1
+ans_s 1 ans_b 0
+895
+327
+s 0 b 0
+ans_s 2 ans_b 0
+895
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+896
+123
+s 0 b 0
+ans_s 1 ans_b 1
+896
+356
+s 1 b 0
+ans_s 1 ans_b 0
+896
+327
+s 0 b 0
+ans_s 2 ans_b 0
+896
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+897
+123
+s 0 b 0
+ans_s 1 ans_b 1
+897
+356
+s 0 b 0
+ans_s 1 ans_b 0
+897
+327
+s 1 b 0
+ans_s 2 ans_b 0
+897
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+912
+123
+s 0 b 2
+ans_s 1 ans_b 1
+912
+356
+s 0 b 0
+ans_s 1 ans_b 0
+912
+327
+s 0 b 1
+ans_s 2 ans_b 0
+912
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+913
+123
+s 1 b 1
+ans_s 1 ans_b 1
+913
+356
+s 0 b 1
+ans_s 1 ans_b 0
+913
+327
+s 0 b 1
+ans_s 2 ans_b 0
+913
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+914
+123
+s 0 b 1
+ans_s 1 ans_b 1
+914
+356
+s 0 b 0
+ans_s 1 ans_b 0
+914
+327
+s 0 b 0
+ans_s 2 ans_b 0
+914
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+915
+123
+s 0 b 1
+ans_s 1 ans_b 1
+915
+356
+s 0 b 1
+ans_s 1 ans_b 0
+915
+327
+s 0 b 0
+ans_s 2 ans_b 0
+915
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+916
+123
+s 0 b 1
+ans_s 1 ans_b 1
+916
+356
+s 1 b 0
+ans_s 1 ans_b 0
+916
+327
+s 0 b 0
+ans_s 2 ans_b 0
+916
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+917
+123
+s 0 b 1
+ans_s 1 ans_b 1
+917
+356
+s 0 b 0
+ans_s 1 ans_b 0
+917
+327
+s 1 b 0
+ans_s 2 ans_b 0
+917
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+918
+123
+s 0 b 1
+ans_s 1 ans_b 1
+918
+356
+s 0 b 0
+ans_s 1 ans_b 0
+918
+327
+s 0 b 0
+ans_s 2 ans_b 0
+918
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+921
+123
+s 1 b 1
+ans_s 1 ans_b 1
+921
+356
+s 0 b 0
+ans_s 1 ans_b 0
+921
+327
+s 1 b 0
+ans_s 2 ans_b 0
+921
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+923
+123
+s 2 b 0
+ans_s 1 ans_b 1
+923
+356
+s 0 b 1
+ans_s 1 ans_b 0
+923
+327
+s 1 b 1
+ans_s 2 ans_b 0
+923
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+924
+123
+s 1 b 0
+ans_s 1 ans_b 1
+924
+356
+s 0 b 0
+ans_s 1 ans_b 0
+924
+327
+s 1 b 0
+ans_s 2 ans_b 0
+924
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+925
+123
+s 1 b 0
+ans_s 1 ans_b 1
+925
+356
+s 0 b 1
+ans_s 1 ans_b 0
+925
+327
+s 1 b 0
+ans_s 2 ans_b 0
+925
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+926
+123
+s 1 b 0
+ans_s 1 ans_b 1
+926
+356
+s 1 b 0
+ans_s 1 ans_b 0
+926
+327
+s 1 b 0
+ans_s 2 ans_b 0
+926
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+927
+123
+s 1 b 0
+ans_s 1 ans_b 1
+927
+356
+s 0 b 0
+ans_s 1 ans_b 0
+927
+327
+s 2 b 0
+ans_s 2 ans_b 0
+927
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+928
+123
+s 1 b 0
+ans_s 1 ans_b 1
+928
+356
+s 0 b 0
+ans_s 1 ans_b 0
+928
+327
+s 1 b 0
+ans_s 2 ans_b 0
+928
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+931
+123
+s 0 b 2
+ans_s 1 ans_b 1
+931
+356
+s 0 b 1
+ans_s 1 ans_b 0
+931
+327
+s 0 b 1
+ans_s 2 ans_b 0
+931
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+932
+123
+s 0 b 2
+ans_s 1 ans_b 1
+932
+356
+s 0 b 1
+ans_s 1 ans_b 0
+932
+327
+s 0 b 2
+ans_s 2 ans_b 0
+932
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+934
+123
+s 0 b 1
+ans_s 1 ans_b 1
+934
+356
+s 0 b 1
+ans_s 1 ans_b 0
+934
+327
+s 0 b 1
+ans_s 2 ans_b 0
+934
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+935
+123
+s 0 b 1
+ans_s 1 ans_b 1
+935
+356
+s 0 b 2
+ans_s 1 ans_b 0
+935
+327
+s 0 b 1
+ans_s 2 ans_b 0
+935
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+936
+123
+s 0 b 1
+ans_s 1 ans_b 1
+936
+356
+s 1 b 1
+ans_s 1 ans_b 0
+936
+327
+s 0 b 1
+ans_s 2 ans_b 0
+936
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+937
+123
+s 0 b 1
+ans_s 1 ans_b 1
+937
+356
+s 0 b 1
+ans_s 1 ans_b 0
+937
+327
+s 1 b 1
+ans_s 2 ans_b 0
+937
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+938
+123
+s 0 b 1
+ans_s 1 ans_b 1
+938
+356
+s 0 b 1
+ans_s 1 ans_b 0
+938
+327
+s 0 b 1
+ans_s 2 ans_b 0
+938
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+941
+123
+s 0 b 1
+ans_s 1 ans_b 1
+941
+356
+s 0 b 0
+ans_s 1 ans_b 0
+941
+327
+s 0 b 0
+ans_s 2 ans_b 0
+941
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+942
+123
+s 0 b 1
+ans_s 1 ans_b 1
+942
+356
+s 0 b 0
+ans_s 1 ans_b 0
+942
+327
+s 0 b 1
+ans_s 2 ans_b 0
+942
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+943
+123
+s 1 b 0
+ans_s 1 ans_b 1
+943
+356
+s 0 b 1
+ans_s 1 ans_b 0
+943
+327
+s 0 b 1
+ans_s 2 ans_b 0
+943
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+945
+123
+s 0 b 0
+ans_s 1 ans_b 1
+945
+356
+s 0 b 1
+ans_s 1 ans_b 0
+945
+327
+s 0 b 0
+ans_s 2 ans_b 0
+945
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+946
+123
+s 0 b 0
+ans_s 1 ans_b 1
+946
+356
+s 1 b 0
+ans_s 1 ans_b 0
+946
+327
+s 0 b 0
+ans_s 2 ans_b 0
+946
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+947
+123
+s 0 b 0
+ans_s 1 ans_b 1
+947
+356
+s 0 b 0
+ans_s 1 ans_b 0
+947
+327
+s 1 b 0
+ans_s 2 ans_b 0
+947
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+948
+123
+s 0 b 0
+ans_s 1 ans_b 1
+948
+356
+s 0 b 0
+ans_s 1 ans_b 0
+948
+327
+s 0 b 0
+ans_s 2 ans_b 0
+948
+489
+s 0 b 3
+ans_s 0 ans_b 1
+0
+951
+123
+s 0 b 1
+ans_s 1 ans_b 1
+951
+356
+s 1 b 0
+ans_s 1 ans_b 0
+951
+327
+s 0 b 0
+ans_s 2 ans_b 0
+951
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+952
+123
+s 0 b 1
+ans_s 1 ans_b 1
+952
+356
+s 1 b 0
+ans_s 1 ans_b 0
+952
+327
+s 0 b 1
+ans_s 2 ans_b 0
+952
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+953
+123
+s 1 b 0
+ans_s 1 ans_b 1
+953
+356
+s 1 b 1
+ans_s 1 ans_b 0
+953
+327
+s 0 b 1
+ans_s 2 ans_b 0
+953
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+954
+123
+s 0 b 0
+ans_s 1 ans_b 1
+954
+356
+s 1 b 0
+ans_s 1 ans_b 0
+954
+327
+s 0 b 0
+ans_s 2 ans_b 0
+954
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+956
+123
+s 0 b 0
+ans_s 1 ans_b 1
+956
+356
+s 2 b 0
+ans_s 1 ans_b 0
+956
+327
+s 0 b 0
+ans_s 2 ans_b 0
+956
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+957
+123
+s 0 b 0
+ans_s 1 ans_b 1
+957
+356
+s 1 b 0
+ans_s 1 ans_b 0
+957
+327
+s 1 b 0
+ans_s 2 ans_b 0
+957
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+958
+123
+s 0 b 0
+ans_s 1 ans_b 1
+958
+356
+s 1 b 0
+ans_s 1 ans_b 0
+958
+327
+s 0 b 0
+ans_s 2 ans_b 0
+958
+489
+s 0 b 2
+ans_s 0 ans_b 1
+1
+961
+123
+s 0 b 1
+ans_s 1 ans_b 1
+961
+356
+s 0 b 1
+ans_s 1 ans_b 0
+961
+327
+s 0 b 0
+ans_s 2 ans_b 0
+961
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+962
+123
+s 0 b 1
+ans_s 1 ans_b 1
+962
+356
+s 0 b 1
+ans_s 1 ans_b 0
+962
+327
+s 0 b 1
+ans_s 2 ans_b 0
+962
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+963
+123
+s 1 b 0
+ans_s 1 ans_b 1
+963
+356
+s 0 b 2
+ans_s 1 ans_b 0
+963
+327
+s 0 b 1
+ans_s 2 ans_b 0
+963
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+964
+123
+s 0 b 0
+ans_s 1 ans_b 1
+964
+356
+s 0 b 1
+ans_s 1 ans_b 0
+964
+327
+s 0 b 0
+ans_s 2 ans_b 0
+964
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+965
+123
+s 0 b 0
+ans_s 1 ans_b 1
+965
+356
+s 0 b 2
+ans_s 1 ans_b 0
+965
+327
+s 0 b 0
+ans_s 2 ans_b 0
+965
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+967
+123
+s 0 b 0
+ans_s 1 ans_b 1
+967
+356
+s 0 b 1
+ans_s 1 ans_b 0
+967
+327
+s 1 b 0
+ans_s 2 ans_b 0
+967
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+968
+123
+s 0 b 0
+ans_s 1 ans_b 1
+968
+356
+s 0 b 1
+ans_s 1 ans_b 0
+968
+327
+s 0 b 0
+ans_s 2 ans_b 0
+968
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+971
+123
+s 0 b 1
+ans_s 1 ans_b 1
+971
+356
+s 0 b 0
+ans_s 1 ans_b 0
+971
+327
+s 0 b 1
+ans_s 2 ans_b 0
+971
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+972
+123
+s 0 b 1
+ans_s 1 ans_b 1
+972
+356
+s 0 b 0
+ans_s 1 ans_b 0
+972
+327
+s 0 b 2
+ans_s 2 ans_b 0
+972
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+973
+123
+s 1 b 0
+ans_s 1 ans_b 1
+973
+356
+s 0 b 1
+ans_s 1 ans_b 0
+973
+327
+s 0 b 2
+ans_s 2 ans_b 0
+973
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+974
+123
+s 0 b 0
+ans_s 1 ans_b 1
+974
+356
+s 0 b 0
+ans_s 1 ans_b 0
+974
+327
+s 0 b 1
+ans_s 2 ans_b 0
+974
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+975
+123
+s 0 b 0
+ans_s 1 ans_b 1
+975
+356
+s 0 b 1
+ans_s 1 ans_b 0
+975
+327
+s 0 b 1
+ans_s 2 ans_b 0
+975
+489
+s 0 b 1
+ans_s 0 ans_b 1
+1
+976
+123
+s 0 b 0
+ans_s 1 ans_b 1
+976
+356
+s 1 b 0
+ans_s 1 ans_b 0
+976
+327
+s 0 b 1
+ans_s 2 ans_b 0
+976
+489
+s 0 b 1
+ans_s 0 ans_b 1
+2
+978
+123
+s 0 b 0
+ans_s 1 ans_b 1
+978
+356
+s 0 b 0
+ans_s 1 ans_b 0
+978
+327
+s 0 b 1
+ans_s 2 ans_b 0
+978
+489
+s 0 b 2
+ans_s 0 ans_b 1
+0
+981
+123
+s 0 b 1
+ans_s 1 ans_b 1
+981
+356
+s 0 b 0
+ans_s 1 ans_b 0
+981
+327
+s 0 b 0
+ans_s 2 ans_b 0
+981
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+982
+123
+s 0 b 1
+ans_s 1 ans_b 1
+982
+356
+s 0 b 0
+ans_s 1 ans_b 0
+982
+327
+s 0 b 1
+ans_s 2 ans_b 0
+982
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+983
+123
+s 1 b 0
+ans_s 1 ans_b 1
+983
+356
+s 0 b 1
+ans_s 1 ans_b 0
+983
+327
+s 0 b 1
+ans_s 2 ans_b 0
+983
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+984
+123
+s 0 b 0
+ans_s 1 ans_b 1
+984
+356
+s 0 b 0
+ans_s 1 ans_b 0
+984
+327
+s 0 b 0
+ans_s 2 ans_b 0
+984
+489
+s 1 b 2
+ans_s 0 ans_b 1
+0
+985
+123
+s 0 b 0
+ans_s 1 ans_b 1
+985
+356
+s 0 b 1
+ans_s 1 ans_b 0
+985
+327
+s 0 b 0
+ans_s 2 ans_b 0
+985
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+986
+123
+s 0 b 0
+ans_s 1 ans_b 1
+986
+356
+s 1 b 0
+ans_s 1 ans_b 0
+986
+327
+s 0 b 0
+ans_s 2 ans_b 0
+986
+489
+s 1 b 1
+ans_s 0 ans_b 1
+1
+987
+123
+s 0 b 0
+ans_s 1 ans_b 1
+987
+356
+s 0 b 0
+ans_s 1 ans_b 0
+987
+327
+s 1 b 0
+ans_s 2 ans_b 0
+987
+489
+s 1 b 1
+ans_s 0 ans_b 1
+0
+2
